@@ -1,0 +1,1936 @@
+华为H12-111HCIA-IOTV3.0认证必备考试题库大全（高分版）、单选题
+1.AR502EGRc-Lc 款型网关查看所有设备在线状态的命令是（）？
+A、 dischanne-typezigbeestatus B、dischannel-typeestatus
+C、 dischanne-typenetworkstatus
+D、 dischanneItyperfstatus 答案：C
+2.以下通信技术中，不属于短距无线通信技术的是
+A、Wi-Fi B、ZigBee C、SigFox D、Z-Wave 答案：C
+3.AgileController 和网关连接成功后在网关上查询连接状态显示是?
+A、certified B、enable C、 alive
+D、connected 答案：A
+4.下列选项中，哪一个北向接口调用使用的是POST方法？
+A、删除直连设备 B、修改设备信息 C、注册直连设备
+D、查询设备激活状态答案：C
+5.设备（网关和传感器）管理是（）Portal的功能? A、SPPotal
+B、Operationportal C、业务发放 Portal D、OSS 管理 Portal 答案：A
+6.NB-loT上行技术有（）种物理信道，（）种物理信号，
+A、2,2 B、2,1 C、3,2 D、1,2 答案：C
+7.以下选项中，不属于一次能源的是（)？
+A、石油 B、天然气
+C、电能 D、煤炭答案：C
+8.eLTE-loT用作电力AMI抄表场景，每小区最多可支持（）电表接入?
+A、100 B、500 C、1000 D、10000 答案：C
+9.我们所说的边缘计算是（？
+A、安装在应用末端的高性能服务器
+B、在掌近终端设备或数据源头的边缘节点，融合联接.计算、存储.控制和应用，
+满足用户实时、智能、数据聚合和安全需求 C、处理正常业务之外的逻辑单元
+D、非核心业务的边缘化数据中心机房答案：B
+10．下列选项中，对于RFMesh 描述正确的是（）。
+A、RFMesh可以中继信号，扩展无线覆盖范围 B、RFMesh物理层采用IEEE802.15.4标准
+C、RFMesh传输层采用TCP协议保证可靠连接，实现邻居发现
+D、RFMesh 是在 RF 技术基础上使用 Mesh 技术答案：A
+11.eLTE-loT通过（）技术实现在免授权频谱上的可靠连接？ A、小包快传
+B、功率谱密度提升 C、跳频技术
+D、PSM 答案：C
+12.下列选项中不属于华为AR网关的关键技术是?
+A、RFMesh 技术 B、能耗管理技术 C、边缘计算技术 D、PLC-IOT 技术答案：C
+13.下列哪些因素和技术使得NB-lot具备超强覆盖特性?
+A、小包数据快传 B、eDRX 模式 C、核心网优化
+D、功率谱密度提升答案：D
+14.OceanConnect平台各Porta丨说法正确的是
+A、OperationPortal面向面向运营商配置和维护人员 B、SPPortaI端口号为8643
+C、SPPorta丨可对网元对接参数进行配置
+D、OSSporta丨包含业务面和管理面答案：D
+15.以下哪个选项不是在 SPPorta丨进行操作的
+A、规则管理 B、资产管理
+C、查看 SP 用户详细信息
+D、应用管理答案：C
+16.下列关于ZigBee 的描述错误的是?
+A、ZigBee 是一种长距离、低功耗的无线通信技术
+B、ZigBee 基于IEEE802.15.4 标准的低功耗局域网协议 C、ZigBee 工作在免授权频段
+D、ZigBee 广泛应用于工业和智慧家庭领域答案：A
+17.如果发送的AT命令的Data部分为0102030405，则该数据字节长度应设置
+为？ A、5 B、20 C、10 D、40 答案：A
+18.物联网层次划分中，负责设备接入和数据传输的是
+A、应用层 B、平台层 C、网络层 D、感知层答案：C
+19.在HuaweiLiteOS 开发过程中，以下描述正确的是（）？ A、link配件需要根据开发板选择
+B、Kei丨调试，printf 函数无需重定向 C、LiteOS 没有自己的启动文件
+D、以上三项均是答案：A
+20.HuaweiLite0S的（）能够提供多种传感算法，应用开发者无需重新开发，可
+以之间调用？ A、互联框架 B、传感框架 C、运行引擎 D、安全框架答案：B
+21.NB-IoT上行，下行分别使用（技术?
+A、GMSK, SCFDMA B、SCFDMA,OFDM
+C、OFDM, GMSK D、SCFDMA,PSK 答案：B
+22.以下选项中，不属于智能井盖可以应对的向题的是（）？ A、井盖丢失
+B、通信电缆丢失 C、人员私自下井
+D、路面水淹答案：D
+23.SotRadio连接平台的端为（）？
+A、8843 B、8743 C、8090
+D、需与华为平台支持方确认获取答案：D
+24.在OceanConnect平台中（）模块用来设置规则引擎?
+A、RuleEngine B、DMServer
+C、loCM D、CIG 答案：A
+25.网关启动后，设备携带Deviceld和密码接入OceanConnect，OceanConnect 对其鉴权确认合法性，如果合法则返回（）？
+A、1000K B、2000K C、3000K D、5000K 答案：B
+26.eLTE-loT模组通过（）接实现与第三方设备集成对接?
+A、USB B、modbus C、串口 D、PCle 答案：C
+27.物联网层次划分中，华为的0ceanConnect是作用于（？
+A、应用层 B、平台层 C、网络层 D、感知层答案：B
+28.关于OceanConnect平台特点，以下不属于权限管理的是（）？ A、接入鉴权
+B、登陆证书
+C、数据存储加密 D、账号分权限答案：C
+29.物联网次划分中，华为的OceanConnect是作用于（）？
+A、应用层 B、平台层 C、网络层 D、感知层答案：B
+30.提供终端接入协议适配功能的模块是（）？
+A、CIG B、loCM C、APIGW D、MangoDB 答案：A
+31.提供终端接入协议适配功能的模块是（）？
+A、CIG B、loCM C、APIGW D、MangoDB 答案：A
+32.HuaweiLire0S内核的基础特性中不包含以下（）选项？ A、轻里级
+B、与Linux 相互兼容
+C、低功耗 D、快速启动答案：B
+33.主题依照什么保留最后一条保留消息？
+A、Qos B、Flag
+C、Payload D、Token 答案：A
+34.AR502EGRc-Lc款型网关查看所有设备在线状态的命令是（）？
+A、 dischanneI-typezigbeestatus B、dischanneItypestatus
+C、 dischannel-typenetworkstatus
+D、 dischannel-typerfstatus 答案：C
+35.Ailecontroller和网关连接成功后在网关上查询连接状态显示是（）？
+A、certified B、enable
+C、 alive
+D、connected 答案：A
+36.以下哪个选项不是在 SPPorta丨进行操作的
+A、规则管理 B、资产管理
+C、查看 SP 用户详细信息
+D、应用管理答案：C
+37.下列选项中在编写Profile文件时符合设备类型命名规范的是？
+A、multi-Sensor B、MultiSensor C、 m.ultiSensor D、 multisensor 答案：B
+38.终端在PSM（省电模式）下时，业务平台下发的控制指令不能实时到达终端，下行的控制指令需要先缓存在送莹商的
+（）中？
+A、基站
+B、业务平台 C、JoT 平台 D、核心网
+答案：C
+39.通过下述函数调用的先后排序，将数据上传到华为「oT平台？
+①neul_be95_get_id(net_ip) //获取模组 ip ②neul_be95_hw_init（）／/初始化NB 模块
+③neul_be95_set_cdpserver(” xx.xx.xx. xx”）//设置对接平台地址 ④ocean_send_data (unsignedchar*) (&send), sizeof(send) //发送数据
+A、①②④③ B、②③①④ c、④③①② D、③①②④ 答案：B
+40.HuaweiLiteOS支持的内存管理算法是（）？
+A、BOX算法 B、Budd 算法 C、OPT 算法 D、LRU算法答案：A
+41.物联网层次划分中，负责数据星现和客户交互的是（)?
+A、应用层 B、平台层 C、网络层 D、感知层
+答案：A
+42.下列选项中，哪一个是上报数据的AT指令
+A、AT+NMGS B、AT+NMGR C、AT+NQMGR D、AT+NQMGS 答案：A
+43.室外型智能停车检器使用的传感器主要是（）？
+A、红外 B、超声波
+C、地磁传感器
+D、摄像头答案：C
+44.下列选项中在编写 Profile文件时符合设备类型命名规范的是?
+A、multi-Sensor B、MultiSensor C、 multiSensor D、 multisensor 答案：B
+45.如果需要发送的AT命令的data 部分为010203405，则长度应设置为（）？
+A、5 B、10
+C、40
+D、以上都不对答案：A
+46.NB-IoT最大耦合线损(MCL）是（）dB?
+A、144 B、164 C、174 答案：B
+47.PLC-lot有多少个子载波数?
+A、128 B、96 C、1 D、36 答案：A
+48.假如你正在给朋友写信此时电话铃声响了，你去接电话，接完电话之后再继续写信，这个过程中电话铃声响可以称作为哪个功能
+A、中断处理 B、中断请求
+C、中断服务程序 D、中断响应
+答案：B
+49.在OceanConnect平台中（）模块用来设置规则引擎?
+A、RuleEngine B、DMServer
+C、loCM D、CIG 答案：A
+50.华为物联网网关Zigbee 和6LoWPAN 技术中，组网的结构是以下（）？
+A、星型 B、点对点 C、MESH D、环形答案：C
+51.以下选项中，于HuaweiLiTe0S 的中断机制好处的是（? A、在外设不需要CPU介入时，CPU可以执行其它任务
+B、使 CPU把大量时间耗费在等待、查调外设状态的操作上 C、外设需要CPU时需要等待当前任务结束
+D、降低系统买时性以及执行效率答案：A
+52.延迟接LOS_TaskDelay（）的参数的单位是？
+A、second B、ms
+C、us D、tick 答案：D
+53.终端在PSM(省电模式)下时，业务平台下发的控制指令不能实时到达终端，
+下行的控制指令需要先缓存在运营商的（中？ A、基站
+B、业务平台 C、loT 平台 D、核心网答案：C
+54.AR501L1Rc款型的设备ID前缀是（）？
+A、2A B、2E C、2C D、23 答案：B
+55.NB-IoT系统带宽是（）？
+A、3.75kHz B、15kHz C、180kHz D、（
+60kHz
+答案：C
+56.以下哪个产品不是华为工业网关
+A、EEM B、AR550 C、AR2500 D、AR500 E、AR530 答案：A
+57.Lite0S 开放的API接不具有下列（功能?
+A、兼容Linux B、容易理解内核 C、屏蔽底层差异 D、接设计友好答案：A
+58.延迟接LOS_TaskDelay（）的参数的单位是（）？
+A、second B、ms C、us D、Tick 答案：D
+59.智能超声波水表中，水温传感器的主要功能是（）？ A、修正超声则里由于温度影响带来的误差，提高精度
+B、防止温度过低导致水表结水破裂 C、避免水表被当做热水水表使用
+D、以上都是答案：A
+60.以下选项中·不属于HuaweiLite0s内存管理中静态内存的优势的是（）？
+A、按需分配 B、无碎片
+C、分配效率高 D、释放效率高答案：A
+61.HuaweiLite0S 互联摆架优化 Mesh 自组网，特点不包含下列（）？
+A、快速自愈 B、高可靠性
+C、组网时间20mins
+D、网络节点数增加至1000+ 答案：C
+62.PLC-Iot有多少个子载波数?
+A、128 B、96 C、1 D、36 答案：A
+63.NB-IoT系统带宽是（）？
+A、3.75kHz B、15kHz C、180kHz D、60KHz 答案：C
+64.物联网应用跟OceanConneot平台对接需要用到（Portal?
+A、告警监控 Portal B、SPPontal
+C、OperationPortal D、OSS 管理 Portal 答案：B
+65.Kei丨集成开发环境在举例中使用的编程语言是（）？
+A、PHP B、C C、Java D、Python 答案：B
+66.关于OceanConnect平台特点。以下不属于权限管理的是（）？
+A、接入鉴权 B、登陆证书
+C、数据存储加密 D、账号分权限答案：C
+67.HuaweiLite0S 中使用（）模块实现接收来自任务或中断的不固定长度的消息
+A、中断 B、队列 C、信号量 D、互斥锁答案：B
+68.目前华为OceanConnect如何进行多租户管理？
+A、虚拟隔离 B、物理隔离 C、数据隔离 D、逻辑隔离答案：D
+69.以下选项中，不属于HuaweiLite0S内存管理中静态内存的优势的是（）?
+A、按需分配 B、无碎片 C、分配效率高 D、释放效率高答案：A
+70.eLTE-loT用作电力AMI抄表场景，每小区最多可支持（）电表接入?
+A、100 B、500 C、1000 D、10000 答案：C
+71.以下选项中，不属于智慧家庭常用的终端接入方式是（）？
+A、Z-Wave B、Zgbee
+C、RF D、WiFi 答案：C
+72.未来的智慧家庭网络结构最有可能是（）？
+A、点状结构 B、星型结构 C、网状结构 D、树型结构答案：C
+73.终端使用 NB-loT方案接入时，平台的 Profile文件中 protocolType字段是什么
+A、ZigBee B、Z-Wave C、MQTT
+D、CoAP 答案：D
+74.华为照明物联网解决方案中，适应的标准是遵循以下（）标准？
+A、IEC62056 B、ANSIC21 C、E
+EC61850
+D、ANSIC136.41 答案：D
+75.南京坏保局检测数据被篡改事件的问题出在（部分？
+A、云 B、管 C、端 D、服务器答案：B
+76.HuaweiLiteOS 支持的内存管理算法是（）？
+A、BOX算法 B、Budd 算法 C、OPT 算法 D、LRU算法答案：A
+77.MQTT协议中代理响应CONNACK消息，确认连接标志返回什么代码表示连接接
+受? A、0 B、1 C、3 D、2
+答案：A
+78.AR502ECRc-Lc款型网关查看所有设备在线状态的命令是？ A、 dischanneI-typenetworkstatus
+B、dischannel-typerfstatus C、 dischannel-typestatus
+D、 dischannel-typezigbeestatus 答案：A
+79.Alecontroller 和网关连接成功后，在网关上查询连接状态显示是（）？
+A、certfied B、enable C、 alive D、connected 答案：A
+80.以下物联网接入技术中，功耗最高的是（？
+A、eMTC B、LTE-V C、GPRS D、NB-loT 答案：B
+81.设备 Proile的zip 包的命名格式是以下（）?
+A、deviceType_manufactend_model. zip B、 manufacturer lddeviceType_model. zip C、 modleldeviceTypemanufactureldzip D、 manufacturernd-model !deviceType. zip 答案：A
+82.eLTE-JoT通过（）技术提高传输效率，提升系统容量?
+A、小包快传 B、HARQ+ARQ C、跳频技术
+D、PSM 答案：A
+83.最适合经营华为 openife 解决方素的厂商是（？
+A、华为公司 B、运营商 C、应用提供商 D、设备供应商
+答案：B
+84.GSM频段重耕部署NB-IoT需要采用（）方式?
+A、独立部署 B、带内部署 C、保护带部署 D、低频带部署答案：A
+85.延迟接LOS_TaskDelay（）的参数的单位是？ A、second
+B、ms C、us D、tick 答案：D
+86.双向链表能够非常方便地完成各种插入、删除等燥作，体现了双向表的哪个特性？
+A、一致性 B、唯一性 C、对称性 D、安全性答案：C
+87.HuaweiLireOS 内核的基础特性中不包含以下（）选项?
+A、轻里级
+B、与 Linux 相互兼容
+C、低功耗 D、快速启动答案：B
+88. staticUINT32Example_TaskHi (V0ID)(
+UNIT32uwRet=L0S_CK;
+Printf("EnterTaskHihandler. \r\n") ;]
+下列选项中输出结果正确的是？ A、EnterTaskHihandler.\r\n
+B、EnterTaskHiHandler. C、 EnterTaskLoHandler.
+D、 DelayTaskFai led. 答案：B
+89.下列关于 eLTE-lot一体化基站 AirNode 描述错误的是?
+A、AirNode 支持轻量化小型化设计. B、AirNode 支持无线回传
+C、AirNode 安装方式只有抱杆安装一种
+D、AirNode 支持光纤回传答案：C
+90.提供给「oT应用服务器的账户、密码是在（)生成的？
+A、安装 OceanConnect B、创建APP 应用
+C、安装设备 Profle 文件
+D、IoT业务发放答案：B
+91.设备（网关和传感器）管理是（Portal的功能? A、SPPortal
+B、OperationPortal C、业务发放 Portal D、OSS 管理 Portal 答案：A
+92.LiteOS 开放的 API接不具有下列（）功能？
+A、兼容 Linux B、容易理解内核 C、屏蔽底层差异 D、接设计友好答案：A
+93.定义码流的第一位表示 msgType（01表示上报数据：02表示上报命令响应）；
+第二位表示当前温度，那么当上报码流为“0121”时，表示什么意思？ A、上报命令响应
+B、上报数据，温度 33℃
+C、上报数据，温度17°℃ D、上报数据，温度 21°℃ 答案：B
+94.华为物联网网关Zigbee 物理层技术采用以下（标准？ A、EC104
+B、IEEE802.15.4 C、EC103
+EEE802.15.1 D、
+答案：B
+95.通过北向API更改设备信息用什么消息方法
+GET A、（
+B、MODFY C、PUT D、POST 答案：C
+96.有线抄水表，就布线成本来最低的是（?
+A、M-bus B、RS-485 C、ZigBee D、RS232 答案：A
+97.以下电力系统全流程正确的是?
+A、发电-变电-输电-变电-配电-用电 B、变电-发电-变电-输电-配电-用电
+C、发电-变电-输电-配电-用电 D、发电-输电-变电-配电-用电答案：A
+98.0BD通过移动网络把数据上传至车联网云服务平台，提供给iot应用服务器的账号，密码是在（）生成的
+A、安装 OceanConnect B、创建 APP 应用
+C、安装设备 Profile 文件
+D、IoT业务发放答案：B
+99.AR501L1Rc款型设备关闭状态指示灯是（）？
+A、紫光 B、红光
+C、无指示灯
+D、黄光答案：A
+100.以下选项中，不属于HuaweiLiteOS1+N架构中N的是（）?
+A、传感框架 B、互朕引擎 C、安全框架 D、开放的 API 答案：D
+101.NB-IoT工作在（）模式下是最省电的？
+A、PSM B、DRX C、RSRP D、eDRX 答案：A
+102.HuaweLite0S互联框架提供（）协议栈，实现互通？ A、IP
+B、TCP/UDP C、CoAP
+D、以上三种均是答案：D
+103.有关北向应用注册直连设备的描述,不正确的是（？ A、注册直连设备时。nodeid 建议用设备的 MAC 地址
+B、注册直连设备接，不仅可以用于注册直连设备，也可以用于注册非直连设备 C、注册直连设备时，timeout 如果设置为0,则没有超时设置
+D、注册直连设备接调用后，如果不在超时范围内完成绑定，则设备注册将失效
+答案：B
+104.PSM休眠态最长时间可达？
+A、250h B、300h C、310h D、350h 答案：C
+105.以下选项中，（是专门为行业物联市场开发的基于3GPP标准的窄带无线物
+联解决方案？ A、 eLTE-loT
+B、Wifi C、PLC-loT D、Z-Wave 答案：A
+106.华为边缘计算网关是部署在哪个层次 A、数据存储服务器和云平台之间
+B、网络层和平台层之间 C、接入层与网络层之间 D、应用层和平台层之间答案：C
+107.以下通信技术中，不属于无线短距离的通信技术的是（）？ A、蓝牙
+B、WIFI C、Z-Ware D、NB-loT 答案：D
+108.调用鉴权接口时，“Content-Type”为？ A、multipart/form-data
+B、appl ication/x--form-ur lencoded
+C、 application/json D、application/xml 答案：B
+109.最适合经营华为openife解决方素的厂商是（）?
+A、华为公司 B、运营商 C、应用提供商 D、设备供应商答案：B
+110.eLTE-oT模组通迁（接实现与第三方设备集成对接?
+A、USB B、modbus C、串口 D、PCle
+答案：C
+111.下列选项中，对于华为照明物联网解决方案描述错误的是（）。
+A、网络层通过 RFMesh 技术连接到物联网关进行数据回传 B、感知层使用外置型路灯控制器AR501L1Rc
+C、平台层采用基于AgileController 的华为 OceanConnect 平台
+D、应用层通过 CityConnect 平台进行数据统计与监控运维答案：C
+112.NB-IoT通过下述（KPI指标评估网络覆盖？
+A、RSRP B、SINR
+C、重叠覆盖率
+D、PSM 答案：B
+113.HuaweiLite0s 互联框架提供（）协议栈，实现互通？ A、IP
+B、TCP/UDP C、CoAP
+D、以上三种均是答案：D
+114.物联网层次划分中，华为的工业物联网关产品是作用于? A、平台层
+B、应用层 C、网络层 D、感知层答案：C
+115.智能巡检不能达成的好处是（）？
+A、提高巡检效率 B、减少工人负担 C、提升工人安全 D、提高生产工艺答案：D
+116.下列选项中属于华为车联网系统解决方案中平台层的是? A、LTE-V
+B、运营支撑系统 C、云存储中心 D、驾驶行为分析答案：C
+117.Sigfox利用了超窄的UNB 技术，所以它的传输速率较低，通常是（）？
+A、50bps B、50Mbps C、100bps D、100Mbps
+答案：C
+118.AR501L1Rc款型设备关闭状态指示灯是（）？
+A、紫光 B、红光
+C、无指示灯
+D、黄光答案：A
+119.NB-LOT工作在（模式下是最省电的?
+A、PSM B、DRX C、EDRX D、PSRP 答案：A
+120.对于短距无线通信技术与LPWA通信技术对比说法正确的是 A、LPWA通信技术功耗一定比短距无线通信技术低
+B、LPWA通信技术传输速率一定比短距无线通信技术快 C、LPWA通信技术传输距离一定比短距无线通信技术远 D、LPWA通信技术安全性一定比短距无线通信技术高答案：C
+121.用户在SPPortaI通过（接口下发各类管理配置命令到OceanConnect的DMS erver?
+A、Hession B、SOAP C、XML-RPC D、REST 答案：A
+122.NB-IoT上行，下行分别使用（）技术？ A、GMSK,SCFDMA
+OFDM
+B、SCFDMA，（
+C、OFDM,
+GMSK
+D、SCFDMA，PSK 答案：B
+123.-个家庭网关的厂家成为了OoeanConneot 的生态合作伙伴，需要在什么Por ta丨上面给这个企业创建一个账户?
+A、OSS 业务 Portal B、SPPortal
+C、OSS 管理 Portal D、OperationPortal 答案：D
+124.以下选项中，属于系统可靠性的是（）？ A、虚拟机可靠性
+B、数据加密 C、流里控制
+D、敏感信息屏蔽答案：A
+125.华为物朕网网美Zi gbee 物理居技术来用以下（）标准？ A、IEC104
+B、IEEE802.15.4 C、IEC103
+D、IEEE802.15.1 答案：B
+126.物联网网关处于整个物联网解决方案的（位置? A、中间层，下行汇聚、上行回传
+B、应用层，提供丰富的数据处理能力
+C、感知层，提供丰富的传感数据采集能力 D、软件平台层，提供丰富的协议适配能力答案：A
+127.在HuweiLite0SKerne丨框架中，运行态的任务在哪个列表中？
+A、运行表 B、消息列表
+C、就绪进程列表
+D、CPU 答案：C
+128.SoftRadio添加设备中的终端注册验证码填写格式正确的是？ A、TEST&_test123
+B、TEST$_test123 C、test&_test D、test$_test 答案：B
+129.物联网层次划分中，负责信息采集和信号处理的是（？
+A、应用层 B、平台层 C、网络层 D、感知层答案：D
+130.以下选项中，不属于HuaweiLite0S 内存管理中静态内存的优势的是（）？
+A、按需分配 B、无碎片 C、分配效率高 D、释放效率高答案：A
+131.结合动态内存的使用给下面的操作排个序,
+1.在动态内存池中申请一个内存块 2.打印出存放在内存块中的数据 3.释放掉这块内存
+4.初始化一个动态内存池
+5.使用这块内存块存放一个数据
+A、5-4-3-2-1 B、4-3-5-1-2 C、4-1-5-2-3 D、3-2-5-1-4 答案：C
+132.在HuaweiLite0S开发过程中，以下描述正确的是（？ A、Iink 配件需要根据开发板选择
+B、Kei丨调试，printf 函数无需重定向 C、LiteOS 没有自己的启动文件
+D、以上三项均是答案：A
+133.物联网应用跟OceanConneot平台对接需要用到（）Portal?
+A、告警监控 Portal B、SPPortal
+C、OperationFortal D、OSS 管理 Portal 答案：B
+134.NB-IoT工作在（）模式下是最省电的？
+A、PSM B、DRX C、RSRP
+D、eDRX 答案：A
+135.以下物联网接入技术中，功耗最高的是（?
+A、eMTC B、LTE-V C、GRRS D、NB-loT 答案：B
+136.一个家庭网关的厂家成为了0oeanConneot 的生态合作伙伴，需要在什么 Po rta丨上面给这个企业创建一个账户?
+A、OSS 业务 Portal B、SPPORTAL
+C、OSS 管理PORTAL D、OperationPortal 答案：D
+137.下列选项中，对于EEM描述错误的是（）。 A、EEM支持计划与策略的管理
+B、EEM 能够提供 GIS 地图监控的功能
+C、EEM 是基于华为 AgileController 平台开发的平台 D、EEM能够管理终端设备，并且提供远程升级
+答案：B
+138.下列选项中，对于EEM描述错误的是（）。 A、EEM支持计划与策略的管理
+B、EEM 能够提供 GIS 地图监控的功能
+C、EEM 是基于华为 AgileController 平台开发的平台
+D、EEM能够管理终端设备，并且提供远程升级答案：B
+139.在0ceanConnect平台中（模块用来设备管理支持物联网设备信息管理与升级?
+A、DMSERVER B、RuleEngine
+C、 CIG D、loCM 答案：A
+140. staticUINT32Example_TaskHi (V0ID) { UNIT32uwRet=L0S_CK;
+Dprintf("EnterTaskHihandler.\r\n") ;
+下列选项中输出结果正确的是？ A、EnterTaskHihandler.\r\n
+B、EnterTaskHiHandler. C、 EnterTaskLoHandler.
+D、 DelayTaskFai led. 答案：B
+141.AR502EGRc-Lc款型网关添加白名单的命令是（）? A、 zigbeenetworkpermit-joinwhitel istlongid
+B、rf-networkpermit-oinwhitelistlongid C、hiplcnetworkpermitjoinwhitelistlongid
+D、networkpemit-joinwhitel ist longid 答案：B
+142.以下哪个选项不是在SPPorta丨进行操作的?
+A、应用管理 B、规则管理 C、资产管理
+D、查看 SP 用户详细信息答案：D
+143.物联网网关处于整个物联网解决方案的（位置？ A、网络层，下行汇聚、上行回传
+B、应用层，提供丰富的数据处理能力
+C、感知层，提供丰富的传感数据采集能力 D、软件平台层，提供丰富的协议适配能力答案：A
+144.GSM频段重耕部署NB-IoT需要采用（）方式?
+A、独立部署 B、保护带部署 C、带内部署 D、低频带部署答案：A
+145.结合动态内存的使用给下面的操作排个序；
+1在动态内存池中申请一个内存块 2打印出存放在内存块中的数据 3 释放掉这块内存
+4 初始化一个动态内存池
+5使用这块内存块存放一个数据
+A、5-4-3-2-1 B、4-3-5-1-2 C、4-1-5-2-3 D、3-2-5-1-4 答案：C
+146.下列状态不属于 PSM 省电模式的是? A、传输态
+B、群呼监控态
+空闲态 C、
+D、休眠态
+答案：A
+147.Sigfox利用了超窄的UNB 技术c所以它的传输速率较低，通常是（）？.
+A、50bps B、50Mbp C、100bps D、100Mbps 答案：C
+148.哪个指令用于 NB-IOT 模组的重启 A、AT+NUESTATS
+B、AT+NRB=1 C、AT+NRB D、AT+NIMI 答案：C
+149.竞争系统资源的最小运行单元是？
+A、内存 B、任务 C、信号量 D、中断答案：B
+150.有线抄水表就布线成本来说最低的是（？
+A、M-busl B、RS-485
+C、ZigBee D、RS232 答案：A
+151.以下选项中，不属于平台层安全的是（？
+A、组网安全 B、机密性 C、隐私性 D、物理防护答案：D
+152.智慧家庭的视频安全方案中的离线视频上传下载是通过（）协议传输 A、（
+Coap B、NB-lot C、MQTT D、HTTPS 答案：D
+153.室外型智能停车车检器使用的传感器主要是（）？ A、摄像头
+B、红外传感器 C、超声波传感器 D、地磁传感器答案：D
+154.以下通信技求中，不属于无短距高的通言技求的是（）？
+A、藍牙 B、WIFI C、Z-Ware D、NB-loT 答案：D
+155.以下哪个选项不是在SPPorta丨进行操作的？
+A、应用管理 B、规则管理 C、资产管理
+D、查看 SP 用户详细信息答案：D
+156.以下选项中，不属于NB-IoT技术特点的是（）？
+A、覆盖广 B、速率快 C、连接多 D、功耗低答案：B
+157.关于Profile编写规范说法正确的是
+A、命令使用所有字母小写，单词之间用下划线连接的格式
+B、设备类型、服务类型、服务标识采用驼峰式命名法 C、参数使用首字母小写
+D、厂商标识、型号唯一标示一个设备类型，支持中英文答案：C
+158.以下选项中，不属于eLTEloT解决方案亮点的是（）？ A、基于ISM 频谱的可靠连接
+B、更低功耗，电池最长待机10年 C、更大容量，海量连接
+D、更大带宽，工行 3Ho0Mbps，下行50Mbps 答案：D
+159.华为物联网网关6LoWPAN物理层技术采用以下（标准? A、IEC104
+B、IEEE802.15.4 C、IEC103
+D、IEEE802.15.1 答案：B
+160.提供给IoT应用服务器的账户、密码是在（)生成的？
+A、安装 OceanConnect B、创建APP 应用
+C、安装设备 Profe 文件
+D、IoT业务发放答案：B
+161.HuaweiLite0S互联框架优化 Meshi自组网，特点不包含下列（）？
+A、快速自愈 B、高可靠性
+C、組网时间>20mins
+D、网络节点数增加至1000+ 答案：C
+162.NB-IoT在GSM频段上的重耕部署需要采用哪种部署方式？
+A、独立部署 B、保护带部署 C、带内部署 D、带外部署答案：A
+163.HuaweLiteOS互联框架提供（）协议栈，实现互通？ A、IP
+B、TCP/UDP C、CoAP
+D、以上三种均是答案：D
+164.下面哪个函数可以获取NB-loT模组入网后的ip地址?
+A、 intneul_bc95_cgpaddr (char*buf) B、intneul_bc95_get_cereg(void) C、intneul_bc95_get_cgatt(void) D、intneul _bc95_get_csq(void)
+答案：A
+165.HuaweILte0s的任务状态不包括以下（）类型?
+A、运行 B、就绪 C、阻塞 D、等待答案：D
+166.对OceanConnect 平台进行版本升级，需要通过以下哪个Portal？ A、OperationPortal
+B、OSSPortal C、UserPortal D、SPPortal 答案：B
+167.以下选项中，不属于NB-IoT关键技术特征的是（?
+A、广覆盖 B、低功耗 C、低成本 D、高带宽 E、大连接答案：D
+168.华为物联网网关Zigbee 和6LoVPAN 技术中，组网的结构是以下（？ A、星型
+172.华为物联网网关6LoWPAN物理层技术采用以下（标准? A、IEC104
+B、IEEE802.15.4 C、IEC103
+D、IEEE802.15.1 答案：B
+173.以下选项中，不属于智慧家庭常用的终端接入方式是（）？
+A、Z-Wave B、Zigbee
+C、RF D、WiFi 答案：C
+174.通常所说得RF技术是指（）？
+A、射频技术 B、有线技术 C、GPS 技术
+D、北斗定位技术答案：A
+175.华为丨ite0S 属于什么类型的操作系统
+A、分布式操作系统 B、实时操作系统 C、网络操作系统
+D、分时操作系统答案：B
+176.一个家庭网关的厂家成为了0oeanConneot 的生态合作伙伴，需要在什么 Po rta丨上面给这个企业创建一个账户?
+A、OSS 业务 Portal B、SPPORTAL
+C、OSS 管理 PORTAL D、OperationPortal 答案：D
+177.eLTE-loT通过（）技术提升抗干扰能力?
+A、功率谱密度提升 B、时域重传机制 C、跳频技术
+D、小包快传技术答案：C
+178.Kei丨集成开发坏境在举例使用的编程语言是（）？
+A、PHP B、C C、Java D、Python 答案：B
+179.以下选项中，不属于智能井盖可以应对的问题的是（)？ A、井盖丢失
+B、通信电缆丢失 C、人员私自下井
+D、路面水淹答案：D
+180.NB-IoT最大藕合线损（MCL）是（）dB?
+A、144 B、154 C、164 D、174 答案：C
+181.下列选项中，哪一个语法为测试指令，用来显示AT命令设置的合法参数值？
+A、AT+<x>=? B、AT+<x>? C、AT+<x)>
+D、AT+<x>=<...> 答案：A
+182.下列选项中，关于 HuaweiLite0S 时间管理描述正确的是? A、每个任务可以对CPU做最小分片，即CPU时间分片调查 B、任务延迟的时间参数是tick，每个tick 默认时间是Ims
+C、通过LiteOs 内核的时间管理模块，系统能够知道相对时间与绝对时间
+D、通过MCU的时钟源，系统能够知道相对时间与绝对时间答案：B
+183.物联网网关处于物联网架构的哪一层次（) A、感知层，传感数据采集
+B、网络层，下行汇聚、上行回传 C、平台层，终端接入、协议适配 D、应用层，数据处理、业务编排答案：B
+184.NB-loT上行，下行分别使用（）技术?
+ GMSK, SCFDMA A、（
+B、SCFDMA,OFDM C、OFDM, GMSK D、SCFDMA,PSK 答案：B
+185.eLTE.4oT通过（技术实现在免授权频谱上的可靠连接？ A、小包快传
+B、功率谱密度提升 C、跳频技术
+D、PSM 答案：C
+186.以下选项中，于HuaweiLiTeOS 的中断机制好处的是（）？ A、在外设不需要CPU介入时，CPU可以执行其它任务
+B、使 CPU把大量时间耗费在等待、查调外设状态的操作上 C、外设需要CPU时需要等待当前任务结束
+D、降低系统买时性以及执行效率答案：A
+187.Kei丨集成开发环境在举例中使用的编程语言是（）？
+A、PHP B、C C、Java D、Python 答案：B
+188.下列选项中，哪个场景的通信方式适用PLC?
+A、智能井盖 B、智能电表 C、智能停车 D、智能抄水表答案：B
+189.在0ceanConnect平台中（模块用来设备管理支持物联网设备信息管理与升级?
+A、DMSERVER B、RuleEngine
+C、 CIG D、loCM
+答案：A
+190.下列选项中，关于厂商名 manufacturerName 命名不正确的是?
+A、华为 B、Hua-Wei C、Huawei
+D、Huawei_China 答案：A
+191.特斯拉事件的安全问题出现在物联网层次架构中的哪一层？
+A、应用层 B、平台层 C、网络层 D、感知层答案：D
+192.以下哪个算法是静态内存算法 A、bestfit_little
+B、tlsf C、bestfit D、membox 答案：D
+193.AR502EGRc-Lc款型网关添加白名单的命令是（）？
+A、 zigbeenetworkpermit-joinwhitelistlongid B、 if-networkpermit-oinwhitelistlongid
+C、 hiplcnetworkpermitjoinwhitelistlongid
+D、 networkpemit-joinwhitelistlongid 答案：B
+194.SotRadio连接平台的端为（）？
+A、8843 B、8743 C、8090
+D、需与华为平台支持方确认获取答案：D
+195.在0ceanConnect多租户管理中，为了实现一套硬件资源能够同时支撑多租户运维，只需要购买服务账号的隔离方式是
+A、物理隔离 B、虚拟隔离 C、逻辑隔离 D、数据库隔离答案：C
+196.在设备管理中，SPPorta丨通过什么协议下发消息给DMServer？
+A、HTTPS B、MQTT C、CoAP
+D、SMTP 答案：A
+197.用户在 SPPorta丨通过（）接下发各类管理配置命令到OceanConnect的DMSer ver?
+A、Hession B、SOAP C、XML-RPC D、REST 答案：A
+198.任务创建后进入就绪态，发生任务切换时，就绪列表中最高优先级的任务被执行，从而进入运行态，此刻该任务依旧哪个绪列表中？
+A、运行列表 B、退出列表 C、阻塞列表 D、就绪列表
+答案：D 解析：
+199.SoftRadio连接平台的端为（)
+A、8843 B、8743
+C、8090
+D、需与华为平台支持确认获取答案：D
+200.下列关于eLTE-loT的纠错编码描述错误的是
+A、纠错编码技术是在整个数据包传输之后，再进行纠错纠正。 B、纠错编码是FEC前向纠错编码。
+C、如果纠错场景超过FEC 纠错范围，将采用 ARQ 和 HARQ 机制重传。
+D、HARQ 的作用是达到时延和丢包率的平衡，这项工作无法由纠错编码完成。答案：A
+201.在设备管理中，SPPorta丨通过什么协议下发消息给DMServer?
+A、HTTPS B、MQTT C、CoAP D、SMTP 答案：A
+202.下列选项中哪项不是小包数据快传技术的优点？ A、降低终端功耗
+B、提升上行传输效率
+C、缩短终端发送数据时间
+D、提升数据传输距离. 答案：D
+203.eLTE-loT 遵循（）技术标准?
+A、B-TrunC B、3GPPNB-loT
+C、LTE D、eMTC 答案：B
+204.终端使用 NB-loT方案接入时平台的 Profile文件中 protocolType字段是什么
+A、ZigBee B、Z-Wave C、MQTT D、CoAP 答案：D
+205.以下选项中，属于HuaweiLiteQS 的中断机制好处的是（）？ A、在外设不需要 CPu时CPU可以执行其它任务
+B、使 CPU把大里时间耗费在等待、查询外设状态的操作上tpa C、外设需要CPU时需要等待当前任务结束
+D、降低系统实时性以及执行效率答案：A
+206.华为工业物联网关不能支持下列哪种下行通信技术?
+A、Wi-Fi B、NB-lot C、ZigBee
+D、PLC-lot 答案：D
+207.NB-LOT 通过下述（）KPI指标评估网络覆盖?
+A、RSRP B、SINR
+C、重叠覆盖率
+D、PSM 答案：B
+208.HuaweiLite0S 中使用（模块实现接收来自任务或中断的不固定长度的消息?
+A、中断 B、队列 C、信号量 D、互斥锁答案：B
+209.以下应用场景中，需要语音功能的是（）？
+A、路灯 B、抄水表 C、抄电表 D、老人手环答案：D
+210.HuaweiLite0Skerneli模块中断运作机制的顺序是什么？ ①把控制权转交给处理函数并开始执行
+②从异常或中断中返回到前一个程序执行点 ③保存当前处理机状态信息
+④当处理函数执行完成时，恢复处理器状态信息 ③载入异常或中断处理函数到 PC 寄存器
+A、③5④①② B、②③5①④ C、 ③5①④② D、②③①5④ 答案：C
+211.HuaweiLite0s内核的基础特性中不包含以下（）选项？ A、轻量级
+B、与Linux 相互兼容
+C、低功耗 D、快速启动答案：B
+212.最适合经营华为openife 解决方案的厂商是（）？
+A、华为公司 B、运营商 C、应用提供商 D、设备提供商
+答案：B
+213.以下选项中，不属于平台层安全的是（？
+A、组网安全 B、机密性 C、隐私性 D、物理防护答案：D
+214.eLTE-oT模组通迁（）接口实现与第三方设备集成对接？
+A、USB B、modbus C、串口 D、PCle 答案：C
+215.假如你正在给朋友写信此时电话铃声响了你去接电话接完电话之后再继续写信这个过程中电话铃声响，可以称作为哪个功能
+A、中断处理 B、中断请求
+C、中断服务程序
+D、中断响应答案：B
+216.定义 GPI0_PIN_O~GPI0_PIN15 为引脚编号，GPIOA~GPIOE 为引I脚 Type,若定义:
+#defineDHT11_Dout_PORTGPIOA
+#defineDHT11_Dout_PINGPI0_PIN_11 则下面这段代码表示什么意思？
+GPI0_InitTypeDefGPl0_InitStruct: GPI0_InitStruct. Pin=DHT11_Dout_PIN:
+GPI0_InitStruct. Mode=GPIO_MODE_INPUT: GP10_InitStruct. Pull=GPI0_PULLUP
+HAL_GPI0_Init(DHT11_Dout_PORT,&GPI0_InitStruct) ;
+A、使PA11引I脚变为推挽输出模式 B、使PB11引脚变为上拉输入模式 C、使PA11引I脚变为上拉输入模式 D、使 PB11引脚变为推挽输出模式答案：C
+217.eLTE-I0T 通过提升功率谱密度来提升覆盖，最大覆盖半径可达（)
+A、5km B、8km C、10km D、15km 答案：C
+218.LiteOS开放的API接口不具有下列（功能?
+A、兼容 Linux B、容易理解内核
+C、屏蔽底层差异 D、接口设计友好答案：A
+219.物联网的英文名称是（？
+A、InternetofPeople B、IntermetofTheorys C、IntermnetofThings D、InternetofVehicle 答案：C
+220.我们所说的边缘计算是（）？ A、安装在应用末端的高性能服秀器
+B、在靠近終端役畜或数据源失的边緣市点，融合联接、计算、存储、控制和应
+用·满足用户实时、智能、数据聚合和安全需求 C、処理正常业务之外的還辑单元
+D、非核心业务的边缘化数据中心机房答案：B
+221.HuaweiLite0S 中使用（）模块实现接收来自任务或中断的不固定长度的消息。
+A、中断 B、信号量 C、队列
+D、互斥答案：C
+222.SoftRadio添加设备中的终端注册验证码填写格式正确的是？
+A、TEST&_test123 B、TEST$_test123
+C、test&_test D、test$_test 答案：B
+223.Lite0SKerne丨关于事件的说法正确的是 A、不可以向任务发送同一事件类型
+B、一个任务只能等待一个事件 C、事件不提供数据传输功能
+D、事件与任务相关联答案：C
+224.设备（网关和传感器）管理是（）PortaI的功能? A、SPPortal
+B、OperationPortal C、业务发放 Portal D、OSS 管理 Portal 答案：A
+225.0ceanConnect逻辑架构中，提供终端接入协议适配功能的模块是 A、loCM
+B、APIGW C、CIG D、MongoDB 答案：C
+226.物联网的英文名称是（?
+A、ItemetofPeoplespor B、InternetofTheorys C、IntethetofThings D、InternetofVehicle 答案：C
+227.有关北向应用注册直连设备的描述，不正确的是（）？ A、注册直连设备时，nodeid 建议用设备的 MAC 地址
+B、注册直连设备接，不仅可以用于注册直连设备，也可以用于注册非直连设备 C、注册直连设备时，timeout 如果设置为0，则没有超时设置
+D、注册直连设备接调用后，如果不在超时范围内完成绑定，则设备注册将失效答案：B
+228.HuaweILte0s 的任务状态不包括以下（）类型?
+A、运行 B、就绪 C、阻塞 D、等待答案：D
+229.AR502ECRc-Lc款型网关查看所有设备在线状态的命令是？ A、dischannel-typenetworkstatus
+B、dischannel-typerfstatus C、 dischanneI-typestatus
+D、 dischannel-typezigbeestatus 答案：A
+230.eLTE-IoT用作电力AMI抄表场景，每小区最多可支持（）电表接入?
+A、100 B、500 C、1000 D、10000 答案：C
+231.AR501L1Rc款型的没ID 前缀是（）？
+A、2A B、2E C、2C D、23 答案：B
+232.华为“1+2+1”|oT解决方案中的“2”指的是？
+A、两种接入方式 B、多种操作系统 C、两个平台
+D、多个模组答案：A
+233.智能超声波水表中，水温传感器的主要功能是（）？ A、修正超声测里由于温度影响带来的误差，提高精度
+B、防止温度过低导致水表结水破裂 C、避免水表被当做热水水表使用
+D、以上都是答案：A
+234.GSM频段重耕部署NB-IoT需要采用（方式?
+A、独立部署 B、带内部署 C、保护带部署 D、低频带部署答案：A
+235.下列选项中不属于智能井盖解决方案用到的传感器的是?
+A、气体传感器 B、行程传感器 C、里程传感器 D、倾角传感器答案：C
+236.NB-IoT 的系统带宽是
+○
+A、15KHz
+B、60KHz C、180KHz D、300KHz 答案：C
+237.任务延迟的参数是tick，1tick默认的时间是?
+A、1ms B、10ms C、100ms D、1s 答案：B
+238.以下迭頂中，属于系統可靠性的是（）？ A、虚拟家可靠性
+B、数据加密 C、流量控制
+D、敏感信息屏蔽答案：A
+239.以下选项中，不属于eLTE4oT解决方案高点的是（）？ A、基于ISM 频谱的可靠连接
+B、更低功耗，电池最长待机10年 C、更大容里，海里连接
+D、更大带宽，上行100Mbps，下行50Mbps 答案：D
+240.以下选项中，不属于一次能源的是（）？
+A、石油 B、天然气 C、电能 D、煤炭答案：C
+241.HuaweiLite0S 中使用（）模块实现接收来自任务或中断的不固定长度的消息?
+A、中断 B、队列 C、信号重 D、互斥锁答案：B
+242.华为物联网网关Zigbee和6LoVPAN技术中，组网的结构是以下（）？
+A、星型 B、点对点 C、MESH D、环形答案：C
+243.eLTE-IOT通迁提升功率借密度来提升覆盖，最大覆盖半径可达
+?？
+A、5km
+B、8km C、10km D、15km 答案：C
+244.NB-IoT工作在（模式下是最省电的?
+A、PSM B、DRX C、eDRX D、PSRP 答案：A
+245.Sigfox利用了超窄的UNB 技术，所以它的传输速率较低，通常是（)？
+A、50bps B、50Mbps C、100bps D、100Mbps 答案：C
+246.AgileController 和网关连接成功后在网关上查询连接状态显示是?
+A、certified B、enable C、alive
+D、connected 答案：A
+247.下列选项中，对于家庭网络发展描述错误的是（)
+A、家庭网络结构逐渐从点状发展到星型再到网状 B、高宽带一直是家庭网络中的重要业务
+C、家庭网络中为了增强Wi-Fi覆盖，采用单网关集中式Wi-Fi覆盖方式
+D、随着家庭网络的发展，其业务也越来越丰富答案：C
+248.北向应用调用鉴权接时，需要得参数时（）？
+A、appid B、secret
+C、aphid 和 secret D、accesstoken 答案：C
+249.NB-IoT 系统带宽是（）?
+A、3.75kHz B、15kHz C、180kHz D、60kHz 答案：C
+250.在HuaweiLite0S开发过程中，以下描述正确的是（？ A、link配件需要根据开发板送择
+B、Keil调试，pintf 函数无需重定向 C、LiteOS 没有自己的启动文件
+D、以上三项均是答案：A
+251.如果需要发送的AT命令的data 部分为010203405，则长度应设置为（)
+A、5 B、10 C、40
+D、以上都对答案：A
+252.终端在PSM（省电模式）下时，业务平台下发的控制指令不能实时到达终端，
+下行的控制指令需要先缓存在运营商的（）中？ A、基站
+B、业务平台 C、loT 平台 D、核心网答案：C
+253.下列选项中，哪项不是小包数据快传技术的优点? A、降低终端功耗
+B、提升上行传输效率
+C、缩短终端发送数据时间
+D、提升数据传输距离答案：D
+254.任务调度的周期单位是（）？
+A、second
+B、ms C、us D、Tick 答案：B
+255.以下选项中，不属于NB-JoT技术特点的是（）？
+A、覆盖广 B、速度快 C、连接多 D、功耗低答案：B
+256.以下不属于物联网操作系统需求的是
+A、组网需求 B、开源需求 C、管理需求 D、连接需求答案：B
+257.NB-IoT的系统带宽是?
+A、12KHz B、15KHz C、（
+60KHz
+D、180KHz 答案：D
+258.eLTE-oT遵循（）技术标准？
+A、B-TrunC B、3GPPNBloT
+C、LTE D、eMTC 答案：B
+259.竞争系统资源的最小运行单元是？
+A、内存 B、任务 C、信号量 D、中断答案：B
+260.在调用注册直连设备接口后，设有调用修改设备信息接口，再次调用注册直连设备接口，会发生以下哪种情况?
+A、正常返回之前的 deviceld B、提示设备已经绑定
+C、返回一个新的 deviceld D、接口返回 400BadRequest 答案：C
+261．下面（）是IBM开发的物朕网通信以?
+A、IPProxy B、MQTT C、AMQP D、SIP 答案：B
+262.以下选项中，不属于搭建HuaweiLite0S 开发的软件环境需要准备的是（？
+A、Linux 操作系统 B、IDE
+C、Windows 作系统
+D、调试器驱动答案：A
+263.华为照明物联网解决方案中，适应的标准是遵循以下（)标准?
+A、IEC62056 B、ANSIC21 C、IEC61850 D、ANSIC13641 答案：D
+264.下列选项中不属于华为AR 网关的关键技术是?
+A、RFMesh 技术 B、能耗管理技术 C、边缘计算技术
+D、PLC-IOT 技术答案：C
+265.以下选项中，不属于搭建HuaweiLite0S开发的软件环需要准备的是（）？
+A、Linux 操作系統 B、IDE
+C、Windows 作系統
+D、调试器驱动答案：A
+266.设备Profile 的zip 包的命名格式是以下（）？
+A、 deviceType_manufacturer Id_model_zip B、 manufacturer ld_deviceType_model. zip C、 model_deviceType_manufacturerId. zip D、 manufacturerId_model_deviceType. zip 答案：A
+267.下列选项中，请选择华为1+2+1”架构中的“2”的含义是什么 A、两种IOT平台
+B、两种网络接入方式
+C、两种操作系统 D、两种付费模式答案：B
+268.在调用批量查询设备信息接口查询直连设备时，哪一项参数对应填写设备的
+Deviceld? A、gatewayld B、deviceType C、deviceld
+D、appld 答案：A
+269.Lite0S支持部署场景包括？ A、基于MCU的设备开发(A+B+C)
+B、面向运营商云平台，提供如 SDK供模组厂商快速对接(C) C、以上都包括
+D、集成到 NB-IoTSoC (A+C) 答案：C
+270.下列哪些属于0ceanConnect运营运维特性特点的是？ A、提供平台对设备和设备数据的操作管理能力
+B、提供行业应用接入平台的能力，通过AP丨实现平台能力开放 C、提供与第三方系统的对接能力
+D、通过管理门户提供对平台的运营操作管理答案：D
+271.下列关于ZigBee 的描述错误的是？
+A、ZigBee 是一种长距离、低功耗的无线通信技术
+B、ZigBee 基于IEEE802.15.4 标准的低功耗局域网协议 C、ZigBee 工作在免授权频段
+D、ZigBee广泛应用于工业和智慧家庭领域答案：A
+272.下列状态不属于PSM省电模式的是？ A、传输态
+B、群呼监控态
+C、空闲态 D、休眠态答案：A
+273.请将消息下发流程进行排序，正确的选项是？ ①南向设备上报数据至平台，平台下发该信令。 ②设备收到信令，执行完毕，返回信令执行结果。 ③应用创建信令发送到平台。
+④平台收到上述执行结果，通过编解码插件的解析，获取信令执行的结果，修改对应的信令状态。
+5信令通过编解码插件进行编码（json 到16 进制码流），并被发送到设备端。
+A、③①②④5 B、③①5②④ c、 ①③5②④ D、③5①②④ 答案：B
+274.HuaweiLiteOS支持的内存管理算法是（）？
+A、BOX算法 B、Budd 算法 C、OPT 算法 D、LRU 算法答案：A
+275.以下选项中，竞争系统资源的最小运行单元是（？
+A、内存 B、任务 C、信号量 D、中断答案：B
+276.在订阅平台数据时，如果想要批量获得设备数据变化，notifyType 的类型需要设置为?
+A、 deviceInfoChanged B、deviceEvent
+C、 deviceDataChanged D、deviceDatasChanged 答案：D
+277.以下选项中，（是专门为行业物联市场开发的基于3GPP标准的窄带无线物
+联解决方案？ A、 eLTE-loT B、Wifi
+C、PLC-loT D、Z-Wave 答案：A
+278.下列选项中，哪一个指令用来查询模块的唯一标识IME丨号？
+A、AT+CGSN B、AT+CGATT? C、AT+CGSN=1 D、AT+CGATT=1 答案：C
+279.以下迭頂中，竞争系统资源的最小运行单元是（）？
+A、内存 B、任务 C、信号量 D、中断答案：B
+280.下列关于eLTE-lot一体化基站 AirNode 描述错误的是?
+A、AirNode 支持轻量化小型化设计. B、AirNode 支持无线回传
+C、AirNode 安装方式只有抱杆安装一种
+D、AirNode 支持光纤回传答案：C
+281.OceanConnect业务流程得第一步是（）？ A、南向消息上报流程
+B、业务发放流程 C、北向注册流程 D、南向注册流程答案：C
+282.延迟接口L0S_TaskDelay（）的参数的单位是（）？ A、second
+B、ms C、us D、Tick 答案：D
+283.以下通信技术中不属于短距无线通信技术的是
+A、蓝牙答案：A
+284.延迟接LOS_TaskDelay（）的参数的单位是（）？ A、second
+B、ms C、us
+D、Tick 答案：D
+285.南京环保局检测数据被篡改事件的问题出在（）部分？
+A、云 B、管 C、端
+D、服务器答案：B
+286.下列不属于HuaweiLite0S 的中断支持的功能是
+()
+A、中断延迟 B、中断创建 C、开/关中断 D、中断屏蔽答案：A
+287.下列选项中，不属于华为AR 网关的关键技术是?
+A、RFMesh 技术 B、能耗管理技术 C、边缘计算技术 D、PLC-IOT 技术答案：C
+288.以下选项中，（是专门为行业物联市场开发的基于3GPP标准的窄带无线物
+联解决方案? A、 eLTE_loT
+B、WiFi C、PLC-loT D、Z-Wave 答案：A
+289.智能巡检不能达成的好处是（）？
+A、提高巡检效率 B、减少工人负担 C、提升工人安全 D、提高生产工艺答案：D
+290.提供给IoT应用服务器的账户、密码是在（生成的？
+A、安装 OceanConnect B、创建APP 应用
+C、安装设备 Profe 文件
+D、IoT业务发放答案：B
+291.下面（是IBM开发的物联网通信协议？
+A、IPProxy B、MQTT
+C、AMQP D、SIP 答案：B
+292.以下应用场景中，需要语音功能的是（）？
+A、路灯 B、抄水表 C、抄电表 D、老人手环答案：D
+293.在多任务系统中，各任务之间需要同步或互斥实现临界资源的保护，（）功能可提供支持?
+A、中断 B、队列 C、信号量 D、任务答案：C
+294.自前智慧家庭的方案中，主要使用的是哪种协议？
+A、SMTP B、CoAP C、MQTT D、HTTP
+答案：D
+295.网关到0ceanConnect之间的数据通信管理是基于以下（协议连接的?
+A、SMTP B、MQTT C、ICMP D、Teinet 答案：B
+296.eLTE-loT通过（）技求提高传输效率，提升系統容量？
+A、小包快传 B、HARQ+ARQ C、跳频技木
+D、PsM 答案：A
+297.NB-IoT 的系统带宽是?
+A、12KHz B、15KHz C、60KHz D、180KHz 答案：D
+298.Ailecontroller和网关连接成功后在网关上查询连接状态显示是（?
+A、certified B、enable
+C、 alive
+D、connected 答案：A
+299.GSM频段重耕部署NB-IoT需要采用（）方式?
+A、独立部署 B、保护带部署 C、带内部署 D、低频带部署答案：A
+300.GSM频段重新部署NB-oT需要采用（）方式?
+A、独立部署 B、带内部署 C、保护带部署 D、低频带部署
+答案：A 多选题
+1.华为 RFMesh 涉及下列哪些技术 A、网络组建：入网、地址分配等
+B、路由转发:路由算法,如AODV、RPL
+C、邻居发现:MAC层Beacon,邻居发现(ND) D、认证加密:PANA+EAP-PSK，EAPoL等
+答案：ABCD
+2.关于华为 Hlink 说法正确的是 A、支持硬件直连接入
+B、支持云接入 C、支持 SDK 集成
+D、支持智能设备免密码接入答案：ABCD
+3.HuaweiLiteOS 的中断支持的功能包括以下哪些?
+A、中断初始化 B、中断创建 C、中断使能 D、开/关中断答案：ABCD
+4.多租户管理方案包括
+A、虚拟隔离 B、逻辑隔离 C、云隔离 D、物理隔离答案：ABD
+5.华为电力物联网解决方案主要应用模块包括？
+A、Billing B、Prepay
+C、MDM D、PDM 答案：ABC
+6.家庭智能网关上的插件有？
+A、应用插件 B、Agent C、协议插件 D、驱动插件答案：ABD
+7.以下（技术不属于LPWA？(多选)
+A、LORA B、WIFI C、NB-LOT ELTE-LOT
+D、
+E、ZIGBEE F、RFID 答案：BEF
+8.将任菱添加到HuaweiLite0s任券堆栈中需要没置（信息?
+A、任务入口函数 B、任务代先級 C、任务堆栈大小
+D、任务创建时间答案：ABC
+9.下列选项中，属于SoftRadio加速NB-loT设备和应用开发验证的是？
+A、不需要芯片/模组 B、不需要 NB-IoT 基站 C、不需要PC 或计算机
+D、不需要核心网答案：BCD
+10.AP丨开放管理基本能力不包括
+A、日志管理 B、设备管理 C、规则管理 D、应用管理答案：BCD
+11.有关设备模拟器的描述，正确的有（)？
+A、设备模拟器的绑定设备可以直接增加一个在线设备，无需北向应用的配合 B、设备模拟器模拟数据上报时，一次只能模拟一个服务。
+C、设箭模拟器模拟数据上报时，一次只能模拟一个服务的一个属性。
+D、设备模似器的添加设备，可以添加直连设备，也可以添加非直连设备答案：BD
+12.下列选项中，哪些是「oT联接管理平台的特点？ A、接入无关
+B、能力开放 C、安全性 D、弹性伸缩答案：ABCD
+13.物联网网关的典型应用场景?
+A、电力物朕网 B、城市物朕网
+C、车朕网 D、互联网答案：ABC
+14.以下几組流程先后顺序排列，正硝的有（)？
+A、业务发放流程-南向注册流程-南向消息上报流程 B、业务发放流程-南向注册流程-控制消息下发流程 C、业务发放流程-南向消息上报流程-南向注册流程 D、业务发放流程-控制消息下发流程-南向注册流程答案：AB
+15.南向设备通过串，发送 AT命令到 SoftRadio，结果 SoftRadio没有任何信息显示，可能的原因有（)？
+A、SoftRadio收到了无法排识的AT命令
+B、南向设备与 PC 的连接存在问题，SoftRadio没有收到数据
+C、发送的 AT 命令没有以 fr/n 结尾 D、以上都可能
+答案：BC
+16.下列选项中，对于边缘计算描述正确的是？
+A、边缘计算是靠近终端设备或数据源头的计算节点
+B、业务与数据通过边缘计算处理后，无须上传到平台端 C、边缘计算可以处理终端侧的全部业务和数据
+D、边缘计算能够满足用户实时、智能、数据存储的需求答案：AD
+17.物联网产业发展面临的主要挑战有哪些
+A、新业务上线周期长 B、网络联接复杂
+C、终端选型多，集成困难
+D、人力资源紧张答案：ABC
+18.下列选项中，哪些业务适合使用NB-IoT通信技术?
+A、远程抄表 B、电子广告 C、车联网
+D、定位数据采集答案：AD
+19.下列选项中，属于搭建HuaweiLite0s 开发的硬件环境需要准备的是？
+A、电源 B、开发板
+C、PC机 D、Eclipse 答案：ABC
+20．下列选项中，属于家庭智能网关关键业务的是（)
+A、智能提速 B、智能互联 C、智能运维
+D、家庭Wi-Fi无缝覆盖答案：ABCD
+21.以下选项中，属于JS框架的优势的有（？
+A、简化跨硬件平台和中间件的系统集成 B、用高级语言抽象来展示编程细节
+C、兼容大量已有的第三方库来丰富平台功能
+D、虚拟机提供了基于语言的安全性答案：ACD
+22.华为电力物联网解决方案主要采用的抄表协议包括（）?
+A、DLMS B、Modbus C、JSONG D、protobuf 答案：AB
+23.以下选项中，属于智能ONT关键业务的有（）？
+A、智能提速
+B、家庭 Wi-Fi无缝覆盖 C、智能互联/智能业务
+D、智能运维答案：ABCD
+24.下面（公司可以成为OceanConnect的生态合作伙伴？ A、芯片公司
+B、loT平台公司 C、手机APP公司
+D、IoT应用开发公司答案：ACD
+25.LiteOSSDK端云互通的集成策略是什么？
+A、可集成性 B、可复制性 C、可移植性 D、可竞争性答案：AC
+26.华为电力物联网解决方案主要采用的抄表协议包括（）？
+A、DLMS B、Modbus C、JSON
+D、protobuf
+答案：AB
+27.下列关于NB-IoT上下技术描述正确的是
+A、下行采用的是ofdma 技术，是ofdm 和 fdma 技术的融合 B、NB-IoT采用的上行技术和LTE 的上行技术一样
+C、上行技术采用SC-FDMA 答案：ABC
+28.利用 SoftRadio向平台发起绑定请求时，如果显示requesttimeout 错误，则可能的原因有（)？
+A、网络环境问题，连接不到平台 B、平台端配置错误
+C、NodeID 配置错误，平台无法找到待绑定设备
+D、manufacturerid、deviceType、mode 等基础信息配置错误;平台无法匹配到
+待绑定设备答案：AB
+29.HuaweiLite0s 开发者社区提供（）支持?
+A、内核代码 B、开发文档 C、场景化 SDK
+D、论坛答案：ABCD
+30.车联网应用中常见的控制命令下发的场景有（）？ A、锁车
+B、采集模块软件版本
+C、位置信息查询 D、位置信息上报答案：ABC
+31.实验环填组网中主要包括（）？
+A、终端层 B、网络层 C、物理层
+D、应用&平容层答案：ABD
+32.HuaweiLiteOS 安全框架包含（部分?
+A、终端安全 B、端云安全 C、传输安全 D、芯片安全答案：ABC
+33.关于华为AR500 的描述，下列说法错误的是
+A、在强磁下无法工作 B、不支持 4G 无线接入 C、不支持无线视频回传 D、无毫秒自愈环网保护答案：BC
+34.0ceanConnect平台设备编解码插件是将数据在哪两种格式之间进行转换
+A、十进制数据 B、Json 数据 C、XML 数据 D、二进制数据答案：BD
+35.AT指令都分为哪几种
+A、查询 B、测试 C、执行 D、设置答案：ABCD
+36．下列关于eLTE-loT小包数据快传正确的是?
+A、小包快传机制将无线链路发送的包长控制在较小的范围
+B、小包快传机制控制了发包长度减少数据包发送过程中的被干扰的概率
+C、针对每个小包基站快速反馈其是否成功接收，如果失败则终端重传；否则继续发送
+D、快速反馈接收结果从而提升了上行的传输效率答案：ABCD
+37.以下通信技术中，频段在SubG 免授权频段的有?
+A、wIfl B、NB-loT
+C、Sigfox D、Lora 答案：CD
+38.以下属于车联网应用层的有？
+○
+A、UBI业务 B、车辆防盗 C、QoS 保障 D、远程诊断答案：ABD
+39.华为智能路灯解决方案中，路灯平台对AR501L1Rc 控制器可以进行以下（操作?
+A、开关 B、调光 C、计划
+D、采集数据答案：ABCD
+40.车联网应用中常见的控制命令下发的场景有（）？ A、锁车
+B、采集模块软件版本
+C、位置信息查询 D、位置信息上报答案：ABC
+41．下列关于eLTE-loT小包数据快传正确的是?
+A、小包快传机制将无线链路发送的包长控制在较小的范围
+B、小包快传机制控制了发包长度减少数据包发送过程中的被干扰的概率
+C、针对每个小包基站快速反馈其是否成功接收，如果失败则终端重传；否则继续发送
+D、快速反馈接收结果从而提升了上行的传输效率答案：ABCD
+42.MobieCam解决方案可广泛应用于以下（领域?
+A、智能摄像头 B、可视门铃 C、无人机 D、运动 DV 答案：ABCD
+43.EEM作为物联网平台后台软件，主要提供了哪些核心功能？
+A、计划／策略管理 B、设备管理
+C、远程升级管理答案：ABC
+44.0ceanConncet平台根据功能可以细分为（？
+A、设备连接层 B、接入层
+C、业务使能层
+2智慧家庭9 中不同．A29
+B30的屯来自R51LceD1于厂，.5DX．所以能互通信于息P9
+.智。、正确错误答于案：教型息SMroMfiI4教型没畜攸支持开天庭于功具凋光停车关键诉求.ATE-.AT是正确9
+智。、正确错误答于案：教型息 AoMfi4 教型没畜攸支持开天庭于功具凋光停车键诉求.ATE-.AT是正确9
+A智、正确错误答于案：教型息SMroMfil4教型I畜攸支持开天庭于功具凋光停车键诉求.ATE-.AT是正确9
+2智。、正确错误答于案：教型息AoMfil4教型没畜攸支持开天庭于功具凋光停
+车关键诉求.ATE-.AT是正确9 中不同．9
+BOO的屯误降低运自Gi（RR于营成息P9
+.智本改善位9 智本足利9
+A智本凋光用率9 2智和难得教9 中不同．A9
+B)0现的得教状时低没要考虑6CNa户体验要考于←网络可9
+.智－ceo19 智nicti9 A智6i(to79
+D、LoRa 答案：CD
+48.华为电力物联网解决方案主要应用模块包括（？
+A、Blling B、Prepay C、MDM D、PDM 答案：ABC
+49.以下选项中，由IoT设备发起的流程有 ()？(多选)
+A、南向消息上报流程 B、业务发放流程
+C、控制消息下发流程
+D、南向注册流程答案：AD
+50.下列选项中，关于智慧家居视频监控的描述正确的选项是 A、高画质
+B、集成不同体验的可视产品
+C、易操作 D、低时延答案：ABCD
+51.智慧路灯的诉求包括
+A、统一监控 B、智能调光强 C、24 小时运维 D、分时段调光答案：ABD
+52.下列选项中，属于5G技术革新的是？
+A、新空口 B、大连接 C、全频谱 D、新架构答案：ACD
+53.以下属于车联网应用层的有（）？ A、UBI
+B、车辆防盗 C、QoS 保障 D、远程诊断答案：ABD
+54.eLTE-IOT网管可以管理（）网元？ A、业务引擎
+B、IoT-体化基站 C、loT 模组
+D、CPE(用户接入终端)
+答案：ABD
+55.实验环境组网中主要包括（）？
+A、终端层 B、网络层 C、物理层
+D、应用&平台层答案：ABD
+56.eLTE-loT具体包含（网元？ A、业务引撃
+B、IoT一体化基站 C、loT 模组
+D、CPE(用户接入終端) E、网管
+答案：ABCDE
+57.下列选项中，对于工业物联网网关描述正确的是（) A、工业物联网网关属于网络层，负责下行汇聚上行回传
+B、工业物联网网关是集路由交换、无线和安全为一体的融合网关 C、工业物联网网关可以支持工业总线的接入，如RS485、M-BUS
+D、工业网关对于工作温度没有严苛要求，但需具备防尘防水防电磁干扰能力答案：ABC
+58.NB-IoT的子信道带宽包括（）？（多选） A、3.75kHz
+B、15KHz C、180kHz D、60kHz 答案：AB
+59.物联网网关的典型应用场景有（）？
+A、电力物联网 B、城市物联网
+C、车联网 D、互联网答案：ABC
+60.华为物联网网关提供了（）上下行接口？(多选)
+A、Zigbee B、RF6LoWPAN C、RS485
+D、PLC E、eth F、3G/LTE
+答案：ABCDEF
+61.南向设备通过串，发送AT 命令到 SoftRadio，结果 SoftRadio没有任何信息显示，可能的原因有（)？
+A、SoftRadio 收到了无法辨识的 AT 命令
+B、南向设备与 P'的连接存在问题，SotRadio没有收到数据
+C、发送的 AT 命令没有以irin 结尾
+D、以上都可能答案：BC
+62.HuaweiLiteOS 基础内核中包含以下哪些模块?
+A、内存管理 B、互联框架 C、传感框架 D、IPC 通信答案：AD
+63.哪些模块可实现对任务的同步
+A、互斥锁 B、信号量 C、事件 D、中断答案：BC
+64.Elte-loT目前支持的频段（）？
+A、470M-510MHz B、863M-870MHz
+902-928MHz C、(
+D、1447-1467MHz 答案：ABC
+65.loT联接管理平台的主要作用有（）？
+A、开放的终端接入
+B、开放的业务应用扩展
+C、安全可靠 D、行业应用答案：AB
+66.华为照明解决方案中路灯平台对路灯控制器可以进行以下（操作？
+A、计划 B、开关 C、调光
+D、采集数据答案：ABCD
+67.eLTE-loT目前支持的频段有（）
+？
+A、470M-510M B、863M-870M
+902M-928M C、(
+D、1447M-1467M 答案：ABC
+68.智慧家庭场景中属于异常事件的有（)？ A、空气质里异常
+B、火警 C、水浸
+D、观察宠物
+答案：ABC
+69.哪些方法属于 CoAP 协议定义的 Request A、PUT
+B、CONNECT C、POST D、GET 答案：ACD
+70.在下列选项中，属于HuaweiLiteOS 操作系统内核优点的是
+A、超小内核 B、高稳定性 C、低功耗 D、快速启动
+E、与 Linux 相互兼容答案：ABCD
+71.在智慧家庭方案中，以下哪些方式可以让用户快速自定义场景
+A、时间触发 B、手工触发 C、事件触 D、自动触发答案：ABC
+72.以下选项中属于物联网层次划分的有（）？ A、应用层
+B、平台层
+C、数据链路层
+D、感知层答案：ABD
+73.以下选项中，由丨oT设备发起的流程有（）？
+A、南向消息上报流程 B、业务发放流程
+C、控制消息下发流程
+D、南向注册流程答案：AD
+74.下列哪些因素和技术使得NB-lot连接特性?
+A、上行业务调度单元较小 B、NB-Iot减少了空信令开销
+C、PSM/eDRX降低了每个设备占用基站资源使用情况
+D、基站优化升级. 答案：ABCD
+75.下列关于Profi1e 文件描述正确的是？
+A、描述一款设备“是什么” B、描述一款设备“能做什么” C、描述“如何控制该设备”
+D、描述设备的价格答案：ABC
+76. OceanConneot 的 Portal有（）？(多选）
+A、告警监控 Portal B、OperationPortal C、SPPortal
+D、OsS 管理 Portal 答案：BCD
+77.北向注册流程中需要执行以下选项中的哪些步骤? A、设备信息修改
+B、设备开户 C、应用鉴权 D、应用注册答案：ABCD
+78.南向设备通过串，发送AT命令到 SoftRadio，结果 SoftRadio没有任何信息显示，可能的原因有（)？
+A、SoftRadio收到了无法辨识的AT命令
+B、南向设备与P'的连接存在问题，SotRadio没有收到数据 C、发送的 AT 命令没有以 irin 结尾
+D、以上都可能答案：BC
+79.OceanConnest 的主要流程有（？
+A、南向消息上报流程 B、业务发放流程
+C、北向注册流程 D、南向注册流程答案：ABCD
+80.HuaweiLiteOSKerne丨模块中的消息队列包含哪些功能? A、队列的创建
+B、发送 C、接收
+D、队列的删除答案：ABCD
+81.华为OceanConnect平台的设备通信管理功能包含以下哪些方面的管理？ A、网关登录
+B、网关到OceanConnect间的数据通信管理
+C、用户数据到网关的连接管理 D、网关数据到用户的连接管理答案：ABCD
+82.IoT联接管理平台的主要作用有（）？〈多迭) A、开放的终端接入
+B、开放的业务应用扩展
+C、安全可靠 D、行业应用答案：AB
+83．下列哪些因素和技术使得 NB-IoT具备超大连接特性（
+V
+A、上行业务调度单元较小
+B、NB-IoT减小了空口信令开销
+C、PSM/eDRX降低了每个设备占用基站资源使用情况
+D、NB-IoT提升了功率谱密度答案：ABC
+84.下列通信技术中，属于有线通信技术是 A、Zigbee
+B、RF6LoWPAN
+C、RS485 D、3G/LTE E、PLC F、M-BUS G、ETH 答案：CEFG
+85.关于工业物联网的说法正确的是
+A、网络的安全冲击 B、环境要求更高
+C、网络运维复杂度高 D、工业接口协议众多答案：ABCD
+86.APP扫码需要获取（）信息？
+A、经度 B、纬度
+C、设备名称
+D、服务器IP地址答案：ABC
+87.CityConnectAgileController 采用网线直连通过什么接进行通信访问?
+A、WSS B、REST
+C、XML-RPC D、SOAP 答案：ABD
+88.HuaweiLite0S1+N的N个框架中包括下列（）内容？(多选)
+A、互联框架 B、传感框架 C、运行引擎 D、安全框架答案：ABCD
+89.实验环境组网中主要包括（)？(多选)
+A、终端层 B、网络层 C、物理层
+D、应用&平台层答案：ABD
+90．下列选项中，属于Mesh 技术的优点是（）？ A、提升带宽，降低发射功率
+B、网络自组织自修复，流量自平衡
+C、扩展无线信号覆盖范围. D、网络节点可以尽可能的多答案：ABC
+91.下列选项中属于物联网操作系统的需求的是？
+A、组网需求 B、连接需术 C、美观需求 D、管理需求答案：ABD
+92.华为电力物联网解决方案主要应用模块包括？
+A、Billing B、Prepay C、MDM D、PDM 答案：ABC
+93.VR/AR/MR业务属于5G的哪个应用场景 A、eMBB
+B、eRLLC C、mMTC D、uRLLC 答案：ACD
+94.关于 NB-IoT技术说法正确的是 A、可支持基站定位
+B、同时能够支持500km/h 以内的移动性场景
+C、具有覆盖广、连接多、速率低、成本低、功耗低、等特点 D、可直接部署于LTE网络，以降低部署成本、实现平滑升级答案：ACD
+95.HuaweiLite0S 的任务模块提供任务的哪些功能？（)
+A、任务创建 B、任务修改 C、任务删除 D、任务挂起答案：ACD
+96.以下关于边缘计算价值的说法正确的是 A、保证本地存活
+B、集中部署成本更低 C、支持数据聚合
+D、提升数据实时处理能力答案：ACD
+97.以下选项中，哪些是物联网在工业领域面对的要求 A、温度一40度+70度
+B、强抗电磁干扰 C、防尘防水
+D、湿度 30%—60% 答案：ABCD
+98.NB-IoT低成本芯片关键技术有？ A、低采样率
+B、单天线，半双工
+C、180kHz 窄带宽，基带复杂度低
+D、协议栈简化答案：ABCD
+99.下列选项中属于ZigBee的特点是?
+A、低复杂度 B、低功耗 C、低数据速率 D、长距通信答案：ABC
+100.下列选项中哪些属于Lite0S 低功耗设计的传输机制? A、路由算法改进
+B、轻量级网络协议栈
+C、SleepingRouter
+D、静态加载答案：ABC
+101．下列选项中，华为OceanConnect平台端到端开发涉及的内容有？
+A、北向应用接入 B、南向设备接入 C、编解码插件开发 D、Profi1e 开发答案：ABCD
+102.以下选项中属于LPWA的通信技术是?
+A、NB-lot B、ZigBee C、SigFox D、PLC-loT 答案：AC
+103.华为提出“1+2+1"loT架构，并已提供（）商用解决方案？
+A、智能水表 B、智能停车 C、智能照明 D、智能家居答案：ABCD
+104.下列关于HuaweiLite0S的动态内存与静态内存描述正确的是
+A、动态内存是在对应内存池中分配用户指定大小的内存块 B、动态内存本质是个对象数组
+C、静态内存是在对应内存池中分配用户初始化预设大小的内存块 D、静态内存所有内存块用链表链接在一起，内存块头保有管理结构答案：AC
+105.以下选项中，属于智能ONT关键业务的有（）？ A、智能提速
+B、家庭W-Fi无維覆盖 C、智能互朕/智能业务
+D、智能运维答案：ABCD
+106.在HuaweiLite0SKerne丨框架中静态内存的优点是什么? A、按需分配
+B、静态内存池中无碎片
+C、释放效率高 D、分配效率高答案：BCD
+107.以下选项中可以减少DD0S 攻岳咸肋的方法有?
+A、终端严格认证 B、终端严格加密
+C、终端使用防拆外壳 D、增加防火墙
+答案：ABD
+108.在HuaweiLiteOSKerne丨框架中静态内存的优点是什么? A、按需分配
+B、静态内存池中无碎片
+C、释放效率高 D、分配效率高答案：BCD
+109.车联网应用中常见的数据上报的场景有（)？(多选)
+A、位置信息上报 B、总线数据上报. C、统计数据上报 D、事件数据上报答案：ABCD
+110.华为电力物联网解决方案主要采用的抄表协议包括（）？(多选)
+A、DLMS B、Modbus C、JSON
+D、protobuf 字答案：AB
+111.以下选项中，属于华为照明物联网解决方案主要特征的有（）？
+A、按需照明，陣低路灯的能源消耗 B、高效低成本的连接海里路灯
+C、降低安装和维护的成本 D、保障系统的可靠运行答案：ABCD
+112.在短距无线网络技术中，常几的有（）？
+A、Zigbee B、RF
+C、Z-Wave D、Wifi
+E、Bluetooth F、PLC
+答案：ABCDE
+113.以下选项中，适合使用NB-IoT的应用有（）？(多选)
+A、智能井盖 B、智慧摄像头 C、智能停车 D、智能抄水表答案：ACD
+114.下面（公司可以成为OceanConnect的生态合作伙伴? A、芯片公司
+B、loT平台公司 C、手机 APP 公司 D、IoT应用开发公司
+答案：ACD
+115.以下选项中，属于物朕网层次划分的的有（）？
+A、应用层 B、平台层
+C、数据链路层
+D、感知层答案：ABD
+116.MobileCam 解决方案可广泛应用于以下（）领域？
+A、智摄像头 B、可視门铃 C、无人机 D、运动 DV 答案：ABCD
+117.华为物联网大致可分力（）部分?
+A、云 B、管 C、端
+D、服务器答案：ABC
+118.eLTE-loT 通过（）技术提升覆盖范围？
+A、小包快传技术 B、跳频技术
+C、时域重传机制 D、提升功率谱密度答案：BD
+119.下列选项中属于IoT联接管理平台能力开放的是?
+A、预集成高价值行业 B、向上API开放
+C、终端管理平台开放 D、向下 Agent 开放答案：ABCD
+120.以下选项中，属于华为照明物联网解决方案是供端到端安全方案保障的有 O?
+A、内置硬件加密引擎，提供MAC 层、传输层的多种安全机制
+B、L2TP/GREMPec等VPN技术，保障回传网络数据支全t C、应用层采用HTTPS 方式访问
+D、采用MD5加密方式进行数据加密答案：ABC
+121.eLTE-I0T网管可以管理（）网元？ A、业务引擎
+B、IoT-体化基站 C、loT 模组
+D、CPE(用户接入终端) 答案：ABD
+122.eLTE-loT网管可以管理（）网元? A、业务引擎
+B、lot一体化基站 C、loT 模组
+D、CPE（用户接入终端) 答案：ABD
+123.在eLTE-IOT网络架构中,业务引擎包含下列哪些功能?
+A、终端设备数据转发 B、终端设备管理
+C、终端和 AirNode 接入认证鉴权
+D、网络协议处理答案：BCD
+124.HuaweiLte0SKeme丨基础内核中包含以下（）模块?
+A、任务管理 B、内存管理 C、中断管理 D、队列管理答案：ABCD
+125.下列选项中，属于家庭智能网关关键业务的是? A、智能提速
+B、家庭 Wi-Fi 无缝覆盖 C、智能互联
+D、智能运维答案：ABCD
+126.编解码插件需要完成以下（功能 A、解码南向设备上报的数据
+B、解码南向设备对平台下发命令的响应 C、编码平台下发的命令
+D、编码平台对上报数据的响应答案：ABCD
+127.以下（技术不属于LPWA?
+A、LORA B、WIFI C、NB-LOT D、ELTE-LOT E、ZIGBEE F、RFID 答案：BEF
+128.下列关于eLTE-loT小包数据快传正确的是?
+A、小包快传机制将无线链路发送的包长控制在较小的范围
+B、小包快传机制控制了发包长度减少数据包发送过程中的被干扰的概率
+C、针对每个小包基站快速反馈其是否成功接收，如果失败则终端重传；否则继续发送
+D、快速反馈接收结果从而提升了上行的传输效率
+答案：ABCD
+129.loT平台支持对设备的批量操作包括？
+A、批量注册设备 B、批量命令下发 C、批量设备配置 D、批量软固件升级答案：ABCD
+130.下列哪些因素和技术使得NB-lot具备超强覆盖特性?
+A、小包数据快传 B、eDRX 模式 C、核心网优化
+D、功率谱密度提升答案：BD
+131. OceanConneot 的 Portal 有（）?
+A、告警监控 Portal B、OperationPortal C、SPPortal
+D、OsS 管理 Portal 答案：BCD
+132.eLTE-loT通过（）技术提升覆盖范围能力?
+A、功率谱密度提升 B、时域重传机制
+C、跳频技术
+D、小包快传技术答案：AC
+133.下列选项中，哪些是CoAP 协议定义的Request方法? A、PUT
+B、DELETED C、QUERY D、POST 答案：ABD
+134.下列选项中，哪些属于华为电力物联网解决方案中的应用模块？
+A、MDM（电表数据管理） B、Billing（计费)
+C、CRM（客户关系管理） D、Perpay（预付费) 答案：ABCD
+135.利用 SofRadio向平台发起绑定请求时，如果显示requesttimeout 错误，则可能的原因有（)？
+A、网络环境问题，连接不到平台 B、平台端配置错误
+C、NodeID配置错误，平台无法找到待绑定设备
+D、manufacturerid、deviceType、mode 等基础信息配置错误，平台无法匹配到待绑定设备
+答案：AB
+136.智慧家庭场景中属于异常事件的有0? A、空气质里异常
+B、火警 C、水浸
+D、观察宠物答案：ABC
+137.下列选项中，对于RFMesh描述正确的是？ A、RFMesh 是在 RF 技术基础上使用 Mesh 技术 B、RFMesh 可以中继信号，扩展无线覆盖范围 C、RFMesh 物理层采用IEEE802.15.4标准
+D、RFMesh 传输层采用TCP 协议保证可靠连接，实现邻居发现答案：ABC
+138.以下选项中，适合在简单终端设备上使用的安全技术有（？
+A、PSK B、VPN C、认证 D、加密答案：ACD
+139.OceanConncet平台根据功能可以细分为（？
+A、设备连接层 B、接入层
+C、业务使能层
+D、应用层答案：ABCD
+140.智慧家庭场景中属于异常事件的有()？(多选) A、空气质里异常
+B、火警 C、水浸
+D、观察宠物答案：ABC
+141.下列选项中，哪些网元属于NB-loT核心网的网元?
+A、HSS B、SGW C、PGW D、MME
+答案：ABCD
+142.eLTE-IoT通过（）技术提升抗干扰能力?
+A、功率谱密度提升 B、时域重传机制 C、跳频技术
+D、小包快传技术答案：ABCD
+143.下列选项中，对于RFMesh 描述正确的是（）。
+A、RFMesh 可以中继信号，扩展无线覆盖范围 B、RFMesh 物理层采用IEEE802.15.4 标准
+C、RFMesh 传输层采用TCP 协议保证可靠连接，实现邻居发现
+D、RFMesh 是在 RF技术基础上使用 Mesh 技术答案：ABD
+144.HiLinkDeviceSDK互联互通功能包括？
+A、智能设备上报服务状态给华为智能家居APP B、MCU 升级
+C、智能设备处理华为智能家居APP 的服务状态查询命令 D、智能设备响应华为智能家居APP 的服务状态控制命令答案：ACD
+145.以下属于安全框架中保证终端安全的技术有
+A、秘钥管理 B、RPL 安全 C、安全存储 D、安全启动答案：ACD
+146.下列属于LiteOS 中 JavaScrip框架的优点是?
+A、简化跨硬件平台和中间件的系统集成 B、用高极语言抽象来隐藏部分编程细节
+C、兼容大量已有的第三方库来丰富平台功能 D、虚拟机提供了基于语言的安全性
+答案：ACD
+147.下列属于车联网命令下发流程的是
+A、位置信息查询 B、车内温湿度查询 C、锁车提醒
+D、远程启动车辆答案：ABD
+148.以下选项中，属于物联网层次划分的有（）？
+A、应用层 B、平台层
+C、数据链路层
+D、感知层答案：ABD
+149.下列选项中属于智慧家庭的案例是哪些?
+A、智慧路灯 B、家庭健康 C、家庭安防 D、家庭节能答案：BCD
+150.有关设备模拟器的描述，正确的有（)？(多选)
+A、设备模拟器的绑定设备可以直接增加一个在线设备，无需北向应用的配合 B、设备模拟器模拟数据上报时，一次只能模拟一个服务
+C、设备模拟器模拟数据上报时，一次只能模拟一个服劳的一个属性
+D、设备模拟器的添加设备，可以添加直连设备，也可以添加丰直连设备答案：BD
+151.以下选项中，属于0ceanConnect在业务使能层支持的功能有（？
+A、APP&AP丨开放管理 B、设备连接
+C、数据管理和开放
+D、规则引擎答案：ACD
+152.以下选项中，属于JS框架的优势的有（？
+A、简化跨硬件平台和中间件的系统集成 B、用高级语言抽象来展示编程细节
+C、兼容大里已有的第三方库来丰富平台功能
+D、虚拟机提供了基于语言的安全性答案：ACD
+153.下列选项中，属于家庭智能网关关键业务的是？ A、智能提速
+B、家庭Wi-Fi无缝覆盖
+C、智能互联 D、智能运维答案：ABCD
+154.华为物联网大致可分为（）部分？
+A、云 B、管 C、端
+D、服务器答案：ABC
+155.J808消息头包含哪几个部分
+A、终端号码 B、消息流水号 C、消息体属性 D、消息 id 答案：ABCD
+156.南向设备通过串，发送AT命令到SoftRadio，结果 SoftRadio没有任何信息显示，可能的原因有（)？
+A、SoftRadio收到了无法辨识的AT命令
+B、南向设备与 PC 的连接存在问题，SoftRadio没有收到数据 C、发送的 AT 命令没有以/r/n 结尾
+D、以上都可能答案：BC
+157.HiLink有（）接入方式。 A、通过云云对接
+B、拨号 C、视频
+D、智能硬件直连答案：AD
+158.关于车联网的说法正确的是 A、分前装后装两种模式
+B、需要实时分析 C、并发数据量大 D、三方应用多答案：ABCD
+159.eLTE-loT具体包含（）网元? A、业务引擎
+B、丨oT一体化基站 C、loT 模组
+D、CPE (用户接入终端) E、网管
+答案：ABCDE
+160.以下选项中，oMTC 和NB-IoT的共网特点有（）?
+A、覆盖广 B、速度快实时通话 C、
+D、功耗低答案：AD
+161.以下选项中，属于智能ONT关键业务的有（）？
+A、智能提速
+B、家庭 W-Fi 无維覆盖 C、智能互朕/智能业务
+D、智能运维答案：ABCD
+162.家庭智能网关上的插件有（）？
+A、驱动程序 B、Agent C、协议插件 D、应用插件答案：ABD
+163.HuaweiLite0S 的任务状态包括以下哪些类型?
+A、就绪态 B、等待态 C、运行态 D、阻塞态答案：ACD
+164.OceanConneot 的 Portal有（)
+？
+A、告警监控 Portal B、OperationPortal C、SRIPertal
+D、oss 管理 Portal
+答案：BCD
+165.关于NGC（5GC）技术特点正确的是
+A、支持边缘计算 B、支持网络切片 C、网络功能全云化 D、控制承载合一答案：ABC
+166.5G 网络的新能目标以下说法正确的是
+A、吞吐量10Gbps B、支持切片
+C、单基站100W连接数
+D、端到端时延 1ms 答案：ABD
+167.华为智能路灯解决方案中，路灯平台对AR501L1Rc控制器可以进行以下（)
+操作？ A、开关 B、调光 C、计划
+D、采集数据答案：ABCD
+168.在短距无线网络技术中，常几的有（）？ A、Zigbee
+B、RF
+C、Z-Wave D、Wifi
+E、Bluetooth F、PLC
+答案：ABCDE
+169.下列选项中属于Mesh技术的优点是（？ A、提升带宽降低发射功率
+B、网络自组织自修复流量自平衡
+C、扩展无线信号覆盖范围. D、网络节点可以尽可能的多答案：ABC
+170.华为“1+2+1”架构包含物联网层次划分的哪些层次？
+○
+A、应用层 B、平台层 C、网络层 D、感知层答案：BCD
+171.以下选项中，eMTC 和NB-loT 的共同特点有（）？
+A、覆盖广 B、速率快i C、实时通话
+D、功耗低答案：AD
+172.南向设备通迁串，发送AT命令到SoftRadio,结果 SoftRadio没有任何信息昆示，可能的原因有（）？
+A、SoftRadio 收到了无法辨识的的 AT 命令
+B、南向设备与P的连接存在问题，SoftRadio没有收到数据 C、发送的 AT 命令没有以/r/n 结尾
+D、以上都有可能答案：BC
+173.1oT平台将设备无线覆盖等级分为3个等级包括？
+A、2 B、1 C、3 D、0
+答案：ABD
+174.Elte-loT目前支持的频段有（）？
+A、470M-510MHz B、863M-870MHz C、902-928MHz D、1447-1467MHz 答案：ABC
+175.HuaweiLite0S操作系统已提供（商用解决方案？
+A、智能停车 B、智能家居 C、智能照明 D、智能水表答案：ABCD
+176.下列选项中，对于边缘计算描述正确的是（）。 A、边缘计算是靠近终端设备或数据源头的计算节点
+B、业务与数据通过边缘计算处理后，无须上传到平台端 C、边缘计算可以处理终端侧的全部业务和数据
+D、边缘计算能够满足用户实时、智能、数据存储的需求答案：AD
+177.Lite0SKerne丨的任务状态不包括
+A、阻塞态 B、退出态 C、中断态 D、运行态答案：ABD
+178.华为 RFMesh 涉及下列哪些技术 A、网络组建：入网、地址分配等
+B、路由转发:路由算法,如AODV、RPL
+C、邻居发现:MAC层Beacon,邻居发现(ND) D、认证加密:PANA+EAP-PSK,EAPoL 等
+答案：ABCD
+179.以下通信技术中，频段在SubG 免授权频段的有（）？
+A、Wifi B、NB-loT C、Sigfox D、Lora 答案：CD
+180.SoftRadio可以模拟 NB-loT网络中的哪些部分
+A、芯片/模组 B、NB-loT 基站
+C、网关 D、设备 E、平台答案：ABC
+181.以下选项中，适合使用NB-IoT.的应用有（）？
+A、智能井盖 B、智慧摄像头 C、智能停车 D、智能抄水表答案：ACD
+182.以下选项中，属于华为照明物联网解决方案提供端到端安全方案保障的有 O?
+A、内置硬件加密引擎，提供MAC层、传输层的多种安全机制
+B、L2TFP/GREIPseC 等VPN 技术，保障回传网络数据安全 C、应用层采用HTTPS方式访问
+D、采用MD5加密方式进行数据加密答案：ABC
+183.以下有关南向注册流程说法正确的是
+A、注册只需要执行一次，注册成功后就不用注册 B、为了数据安全，鉴权需要执行多次
+C、注册成功后IoCM通知IoT应用服务器设备已经上线
+D、南向注册成功的前提是业务已经发放答案：ABCD
+184.以下（）技术不属于LPWA?
+A、Lora B、WiFi C、NB-loT D、Elte-loT E、Zigbee F、RFID 答案：BEF
+185.以下哪些是MapleJS运行引擎的特点 A、不支持三方库
+B、JS 框架、JS 虚拟机和 OS 协同优化性能和功耗
+C、提供独立用户空间和应用隔离
+D、轻量级 JS 虚拟机答案：BCD
+186.华为物朕网网关提供了（）上下行接口？
+A、Zigbee B、RF6LoWPAN C、RS485
+D、PLC E、eth F、3G/LTE 答案：ABCDEF
+187.HuaweiLite0S1+N的N个框架中包括下列（）内容？
+A、互联框架 B、传感框架 C、运行引擎 D、安全框架答案：ABCD
+188.华为 AR工业路由器整合了以下哪些功能特性
+A、边缘计算 B、集中管理 C、安全加密 D、多接口&协议
+答案：ABCD
+189.以下选项中属于LPWA的通信技术是?
+A、NB-lot B、ZigBee C、SigFox D、PLC-loT 答案：AC
+190.Kei丨的基本操作包括以下〈)步骤? A、创建新工程
+B、添加keme丨代碣到工程 C、配置工程属性
+D、仿真调试答案：ABCD
+191.下列选项中哪些属于Lite0S 的特点?
+A、联接智能 B、组网智能 C、管理智能 D、轻量级答案：ABCD
+192.家庭智能网关上的插件有（）？(多选) A、驱动程序
+B、Agent C、协议插件 D、应用插件答案：ABD
+193.华为 OceanConnect 平台具备以下哪些特点
+A、高安全性 B、能力开放
+C、支持弹性伸缩
+D、高可靠性答案：ABCD
+194.以下选项中，属于华为照明物联网解决方案提供端到端安全方案保障的有 O?
+A、内置硬件加密引擎，提供MAC层、传输层的多种安全机制
+B、L2TFP/GREIPseC 等VPN 技术，保障回传网络数据安全 C、应用层采用HTTPS 方式访问
+D、采用MD5加密方式进行数据加密答案：ABC
+195.控制消息下发流程说法错误的是 A、lot设备收到消息后可选择是否回复
+B、OceanConnect收到终端的消息可选择是否上报给应用服务器
+C、OceanConnect 收到终端的消息可选择是否存储消息内容 D、OceanConnect 收到应用下发的控制消息会立刻下发给终端
+答案：ABCD
+196.利用eLTE-oT可以实现以下（业务应用？ A、远程抄表(电表，水表)
+B、语音通话 C、视频回传 D、智能路灯 E、环境监测答案：ADE
+197.华为电力物联网解决方案主要应用模块包括（）？
+A、Billing B、Prepay C、 MDM D、PDM 答案：ABC
+198.以下通信技术中，频段在SubG 免授权频段的有？(多选)
+A、wlfl B、NB-loT C、Sigfox D、Lora 答案：CD
+199.下列选项中，关于NB-IoT上下行通信技术描述正确的是？
+C
+A、NB-IoT上行采用 SC-FDMA，下行采用OFDMA
+B、相同功率的前提下 Multi-tone 比 Single-tone 拥有更高的功率谱密度增益。 C、OFDMA技术是OFDM和FDMA 的技术融合
+D、MuIti-tone 作为终端设备的必备功能，而 Single-tone 为可选功能答案：AC
+200.OceanConnest的主要流程有（）？ A、南向消息上报流程
+B、业务发放流程 C、北向注册流程 D、南向注册流程
+答案：ABCD 判断题
+1.互斥锁又称互斥型信号量用于实现对共享资源的独占式处理
+A、正确 B、错误答案：A
+2.AR501L1Rc款型设备仅支持开关功能不具备调光功能。
+A、正确 B、错误答案：B
+3.第三方平台在 OceanConnect 平台设置指定deviceld 得AES 加密指数，后续0
+ceanConnect 平台和这台车载设备之间通信需采用 AES 加密。 A、正确
+B、错误答案：A
+4.固定值"cloudReq”，表示平台对设备上报数据的响应。
+A、正确 B、错误答案：B
+5.SoftRadio仅用于测试场景不允许接入客户现网以及进行商用.
+A、正确 B、错误答案：A
+6.V2X通信技术对车联网的推广和普及有重大意义
+A、正确 B、错误答案：A
+7.LiteOS 内置的 JS 虚拟机会针对资源高度受限的设备进行设计和优化。
+A、正确 B、错误答案：A
+8.平台接收到终端消息上报时编译码插件负责把消息解码成平台识别的 XML 格
+式数据. A、正确 B、错误
+答案：A
+9.终端智能化是物联网发展的基础华为提供完整标准化物联网操作系统LiteOS 加速器终端智能化
+A、正确 B、错误答案：A
+10.NB-IoT支持切换功能，通过小区选择和重选来提供移动功能
+A、正确 B、错误答案：B
+11.为增强Wi-Fi使用体验，单 ONT 集中式Wi-Fi是趋势。
+A、正确 B、错误答案：B
+12.中断是指出现需要时，CPU暂停执行当前程序，转而执行新程序的过程。
+A、正确 B、错误答案：A
+13.智能家居领域，智能ONT也可以基于usBDango扩展的方式2qpw2wan等多种物联网基础接入能力一通过接入的统一
+A、正确 B、错误
+答案：A
+14.AMI是一套包括智能电表、先进通讯网络、采集器与集中器、后台软件的完整的系统，它能够利用双向通信系统来记录用户详细负荷信息
+A、正确 B、错误答案：A
+15.OeanConnect支持开发者Portal，但是不支持运营商Portal。
+A、正确 B、错误答案：B
+16.第三方平台成功地把车载设备的序列号注册到OceanConnect平台后DceanCo nnet会在平台里面为设备生成一个 deviceld.
+A、正确 B、错误答案：A
+17.语音交付类应用可以使用 NB-IoT通信技术
+A、正确 B、错误答案：B
+18.任务可以使用或等待CPU使用内存空间等系统资源，并独立于其他任务运行
+A、正确 B、错误
+答案：A
+19.华为AR532具备远程数据收集和端到端安全防护能力
+A、正确 B、错误答案：A
+20.智慧家庭网络中包含了基础家庭网路和智能互联网络。
+A、正确 B、错误答案：A
+21. RS-232 最多支持128 个收发器
+A、正确 B、错误答案：B
+22.以同步力目的的信号量与以互斥目的的信号量在使用时是相同的。
+A、正确 B、错误答案：B
+23.OceanConnect的软件安装是在 SPPorta丨上面进行的
+A、正确 B、错误答案：A
+24.AR502E网关仅仅只支持Zigbee和RF无线通信接，不支持RS485和以太网接。
+A、正确 B、错误答案：B
+25.HuaweiLite0S中的任努是抢占式调度机制，目前誓不支持时间片轮转调度方式。
+A、正确 B、错误答案：B
+26.HuaweiLite0S 可以运行于麒麟系列芯片协处理器
+A、正确 B、错误答案：A
+27．“特洛伊”咖啡壶属于物联网的终端层
+A、正确 B、错误答案：B
+28.智能家居领域·智能ONT也可以基干USBDongle扩展的方式·提供包括 zrq-bee/Z-ware 等多种物联网接入能力·通过融入标准的统一，将接入不同的厂家
+的智能设备 A、正确 B、错误答案：A
+29.智慧家庭中不同的家屯来自于不同的厂家，所以不能互通信息。
+A、正确 B、错误答案：B
+30.AR501L1Rc 教型没畜攸支持开天功能，不具畜凋光功能
+A、正确 B、错误答案：B
+31.智能停车关键诉求是降低运营成本、改善停车位不足、利用率低和停车难得现状，同时要考虑用户体验↓网络成本和网络可靠性。
+A、正确 B、错误答案：A
+32.eDRX模式和PSM模式一般不同时开启
+A、正确 B、错误答案：A
+33.若上报数据匹配不上的 Profile 文件，平台会将数据丢弃.
+A、正确 B、错误答案：A
+34.在智能制造领域，利用eLTE-loT可以实现生产现场视频数据实时回传。
+A、正确 B、错误答案：B
+35.华为智能同关是基于0SGI开战乎，硬件馆动插件和应用插件可动态远程安装。启动、升级、卸载(即插既用)，用户网自主安装，运营商可集中管控
+A、正确 B、错误答案：A
+36.如果没有在OCEANCONNECT平台为LOT 设备开户设备去OceanConnect注册会
+失败. A、正确 B、错误答案：A
+37.为增强Wi-Fi使用体验单ONT 集中式Wi-Fi是趋势。
+A、正确 B、错误答案：B
+38.LiteOS 开放的API接做不到屏蔽底层差异
+A、正确 B、错误答案：B
+39.有线通信中，RS485与RS232最大区别是RS485支持一对多通信，而RS232 只能支持一对一通信.
+A、正确 B、错误答案：A
+40.eMTC 可以应用在车联网与视频监控场景
+A、正确 B、错误答案：A
+41.网关接入鉴权的主要作用是对网关的身份进行鉴权，防止非法设备越权访问。
+A、正确 B、错误答案：A
+42.跳频技术通过上行数据发送时使用的物理信道不断变化来避免持续干扰.
+A、正确 B、错误答案：A
+43.HuaweiLite0S 的任务一共有 32个优先级，其中0为最高优先级
+A、正确 B、错误答案：A
+44.AR502E网关仅仅只支持Zigbe和RF无钱通信接，不支持RS485和以大网接。
+A、正确 B、错误答案：B
+45.0ceanConnest 提供IoT服务给最终的用户。
+A、正确 B、错误答案：B
+46.边缘计算的数据聚合能够消除数据碎片化，屏幕无效噪声
+A、正确 B、错误答案：A
+47.信号量是一种实现任务间通信的机制，实现任务之间同步或临界资源的互斥
+访问 A、正确 B、错误答案：A
+48.物联网安全是物联网的基石，是物联网必须面对和解决的问题。
+A、正确 B、错误答案：A
+49.平台接收到终端消息上报时编译码插件负责把消息解码成平台识别的 XML 格式数据.
+A、正确 B、错误答案：A
+50.OeanConnect支持开发者Portal，但是不支持运营商Portal。
+A、正确 B、错误答案：B
+51.目前智能ONT开放能力有限，只能支持华为自有服务平台。
+A、正确 B、错误答案：B
+52.边缘计算支持实时性业务，可以做到ms 级数据分析
+A、正确 B、错误答案：A
+53.使用Keil调试时，prinf 函数可以重定向到“debuggerconsole"，需要在调试坏境打并Debug<printf)viewer窗口
+A、正确 B、错误答案：A
+54.智能停车解决方案中摄像头采用的是NB-I0T技术 A、正确
+B、错误答案：A
+55.炼化厂中的定位由基站定位即可完成。
+A、正确 B、错误答案：B
+56.如果没有在OCEANCONNECT平台为LOT设备开户设备去OceanConnect注册会
+失败. A、正确 B、错误答案：A
+57.SigFox和LoRa一样来源于法国，运营方式也相同，大量应用于私有网络。
+A、正确 B、错误答案：B
+58.HuaweiLite0S 中的任务是抢占式调度机制，目前暂不支持时间片轮转调度方式
+A、正确 B、错误答案：B
+59.HuaweILiteOS的中断机判支持中断共享 A、正确
+B、错误答案：A
+60.目前智能ONT开放能力有限，只能支持华为自有服务平台。
+A、正确 B、错误答案：B
+61.业务发放流程的结果是丨oT应用服务器可以登录0ceanConnect。
+A、正确 B、错误答案：B
+62.在电力行业，利用eLTE-loT实现AMI远程抄表主要的优势是覆盖广，海量连接，易于部署和扩展。
+A、正确 B、错误答案：A
+63.为了更快的探测车位状态，桧测器检测的频率越高越好。
+A、正确 B、错误答案：B
+64.华为智慧家庭生态中，设备供应商只需要关心设备的集成，应用提供商只关
+注七大类 API的云管端业务能力 A、正确
+B、错误答案：A
+65.以同步为目的的信号量与以互斥为目的的信里在使用时是相同的。
+A、正确 B、错误答案：B
+66.互斥锁的状态只有两种，开锁或闭锁
+A、正确 B、错误答案：A
+67.华为AR系列路由器边缘计算可提供JVM虚拟机和OSGI框架
+A、正确 B、错误答案：A
+68.PLC通信技术是一种专用于电力领域的无线通信技术
+A、正确 B、错误答案：B
+69.网关接入鉴权的主要作用是对网关的身份进行鉴权，防止非法设备越权访问。
+A、正确 B、错误答案：A
+70.信号量是一种实现任务间通信的机制，实现任务之间同步或临界资源的互斥
+访问 A、正确 B、错误答案：A
+71.中断是指出现需要时CPU暂停执行当前程序转而执行新程序的过程.
+A、正确 B、错误答案：A
+72.HuaweiLitie0S的内存管理分为静态内存管理和动态内存管理，其中动态内存优点为按需分配，不出现碎片。
+A、正确 B、错误答案：B
+73.有线通信中，RS485与RS232最大区别是RS485支持-对多通信，而RS232 只能支持一对一通信.
+A、正确 B、错误答案：A
+74.CoAP协议报文格式简单，消息可以很短，使用长连接，有心跳保活机制.
+A、正确 B、错误
+答案：B
+75.IOT平台解码插件开发需要开发者理解JAVA语言
+A、正确 B、错误答案：B
+76.中断是指出现需要时CPU暂停执行当前程序转而执行新程序的过程.
+A、正确 B、错误答案：A
+77.HuaweiLitieOS 的内存管理分为静态内存管理和动态内存管理，其中动态内存优点为按需分配不出现碎片.
+A、正确 B、错误答案：B
+78.终端智能化是物联网发展的基础，华为提供完整、标准化物联网操作系统Li teOS，加速终端智能化。
+A、正确 B、错误答案：A
+79.SigFox 和LoR一样来源于法国
+A、正确 B、错误
+答案：B
+80.智慧家庭网络包括基础的宽带网络与智能互联网络，其接入的是运营商的宽
+带网络。 A、正确 B、错误答案：A
+81.OeanConnect支持开发者Portal，但是不支持运营商Portal。
+A、正确 B、错误答案：B
+82.SigFox和LoRa-祥来源于法国，运营方式也相同，大量应用于私有网络
+A、正确 B、错误答案：B
+83.eLTE-lot 与 NB-lot 类似均是LPWA(LowPowerWideArea)通信技术
+A、正确 B、错误答案：B
+84.华为AR532具备远程数据收集和端到端安全防护能力
+A、正确 B、错误答案：A
+85.HuaweiLite0s中的任努是拾占式凋度机制，目前暂不支持肘同片装凋度方式
+A、正确 B、错误答案：B
+86.AP丨应用场景分为两种，有一些厂家只做传感器，有各种各样的传感器，有做车的也有做家庭的还有做Camera的，这就是我们所说的水平生态.
+A、正确 B、错误答案：A
+87.HuaweiLiteOS 支持tickless 机制
+A、正确 B、错误答案：A
+88.水务公司智能化改造的主要动机是降低漏损，提升营收。
+A、正确 B、错误答案：A
+89.0ceanConnect平台设备通信管理支持用户订阅和设备订阅
+A、正确 B、错误答案：A
+90.蓝牙、Wi一Fi、ZigBee、Z一Wave、NB一IoT、LoRa 等都是物联网终端的无线
+接入方式 A、正确 B、错误答案：A
+91.射频识别(RFID)装置不属于物联网的范畴
+A、正确 B、错误答案：B
+92.PLC通信技术是一种专用于电力领域的无线通信技术
+A、正确 B、错误答案：B
+93.AgentLite 即瘦网关，直连设备能够通过集成 AgentLite 快速接入平台，实现数据上报和命令下发等功能。
+A、正确 B、错误答案：A
+94.HuaweiLiteOS 提供轻量级内核等组件，与华为NB-IoT芯片结合实现传感与互联“二合一”
+A、正确 B、错误
+答案：A
+95.eLTE-IoT 与 NB-loT 类似，均是基于Sub-GHz 的ISM 免授权频谱
+A、正确 B、错误答案：B
+96.HuaweiLiteOS 操作系统具有轻量级、低功耗、响应快等特点。
+A、正确 B、错误答案：A
+97.华为智能网关是基于0SG1开放平台，硬件驱动插件和应用插件可动态远程安装、启动、升级、卸载(即插即用），用户可自主安装，运营商可集中管控。
+A、正确 B、错误答案：A
+98.华为0ceanConnect平台解决方案除了提供设备管理与设备通信管理，还提供了 SIM的连接管理。
+A、正确 B、错误答案：A
+99.整个AMI体系包括硬件设备，软件，通信网络，用户界面，DCP&UMS和应用层
+系统。 A、正确
+B、错误答案：A
+100.HuaweiLite0S物联网操作系统提供了N个内核来适配不同场景
+A、正确 B、错误答案：B
+101.PLC通信技术是指利用电力线传输数据和媒体信号的一种通信方式。
+A、正确 B、错误答案：A
+102.Lite0S 内置的JS 虚似机会針对資源高度受限的没畜进行设计和优化。
+A、正确 B、错误答案：A
+103.如果没有在OceanConnect 平台力丨oT设备升户，设备去OceanConnect注册
+会失败 A、正确 B、错误答案：A
+104.在系统运行之前向任务堆栈中添加任务与系统运行以后向任务堆栈添加任
+务没有什么不同。 A、正确
+B、错误答案：B
+105.华为智慧家庭生态中，设备供应商只需要关心设备的集成，应用提供商只关注七大类 AP丨的云管端业务能力
+A、正确 B、错误答案：A
+106.终端智能化是物联网发展的基础华为提供完整标准化物联网操作系统LITE 0S，加速终端智能化
+A、正确 B、错误答案：A
+107.边缘计算支持实时性业务，可以做到ms 级数据分析
+A、正确 B、错误答案：A
+108.LiteOSStudio跟踪调试Lite0S 内核跟踪、内存跟踪、任务栈跟踪等
+A、正确 B、错误答案：A
+109.在系统运行之前向任务堆栈中添加任务与系统运行以后向任务堆栈添加任务没有什么不同.
+A、正确 B、错误答案：B
+110.SoftRadio仅用于测试场景不允许接入客户现网以及进行商用.
+A、正确 B、错误答案：A
+111.MQTT协议采用请求/响应的工作模式，客户端向服务器订阅感兴趣的信息
+A、正确 B、错误答案：A
+112.车联网，是指车与车，车与路，车与人
+A、正确 B、错误答案：A
+113.V2X通信技术对车联网的推广和普及有重大意义
+A、正确 B、错误答案：A
+114.MuLti-tone 作为终端设备的必要功能，而 Single-tone 为可选功能
+A、正确 B、错误
+答案：A
+115.LTE-V技术是华为提出的依托于蜂窝网实现车联网业务的通信解决方案
+A、正确 B、错误答案：A
+116.HuaweiLite0S 的架构是1个轻量级内核+N个框架。
+A、正确 B、错误答案：A
+117.电力线通信技术简称PLC，指利用电力线传输数据和媒体信号的一种通信方式。
+A、正确 B、错误答案：A
+118.AP丨应用场景分为两种，有一些厂家只做传感器，有各种各样的传感器，有做车的，也有做家居的还有做Camera的，这就是我们水平生态
+A、正确 B、错误答案：A
+119.Multi-tone 包括 3tone、6tone 和 12tone 这 3 种场景，分别代表 eNodeB 可
+一次分配3、6和 12个15kHz子载波用于UE上行数据传输. A、正确
+B、错误答案：A
+120.因为 NB-IoT相比 GSM 带宽较小，所以覆盖范国比 GSM 要小。
+A、正确 B、错误答案：B
+121.Profile在命名时，要注重名称的通用性，简洁性，对于服务能力描述，还要考虑其功能性。
+A、正确 B、错误答案：A
+122.AR502E网关仅仅只支持Zigbe和RF无钱通信接，不支持RS485和以大网接。
+A、正确 B、错误答案：B
+123.MuLti-tone 作为终端设备的必要功能，而 Single-tone 为可选功能
+A、正确 B、错误答案：A
+124.RPL是基于距离矢量的路由协议
+A、正确 B、错误
+答案：A
+125.第三方平台成功地把车载设备的序列号注册到OceanConnect平台后，0cea nConnect会在平台里面为设备生成一个deviceld
+A、正确 B、错误答案：A
+126.井盖的管理关系到道路安全、人身安全，同时还有地下的公共设备安全，分布广泛、数量多，管理困难。
+A、正确 B、错误答案：A
+127.在电力行业，利用eLTE-loT突現 AMI远程抄表主要的优势是覆盖广，海重连接·易于部署和扩展
+A、正确 B、错误答案：A
+128.LiteOS目前仅支持海思 NB芯片及相关模组
+A、正确 B、错误答案：B
+129.SigFox和LoRa-祥来源于法国，运营方式也相同，大量应用于私有网络 A、正确
+B、错误答案：B
+130.MuIti-tone包括 3tone6tone 和12tone 这3种场景分别代表eNodeB可一次分配36和12个15kHz子载波用于UE上行数据传输
+A、正确 B、错误答案：A
+131.第三方平台成功地把车载设备的序列号注册到0ceanConnect平台后DceanC onnet会在平台里面为设备生成一个 deviceld.
+A、正确 B、错误答案：A
+132.互斥锁又称互斥型信号量用于实现对共享资源的独占式处理
+A、正确 B、错误答案：A
+133.10T平台和应用之间采用Json 格式的命令
+A、正确 B、错误答案：A
+134.OceanConnect的软件安装是在 SPPorta丨上面进行的 A、正确
+B、错误答案：A
+135.中断是指出现需要时，CPU暂停执行当前程序，转而执行新程序的
+A、正确 B、错误答案：A
+136.挂起任务的时候，若当前任务是已锁任务，则不能被挂起。
+A、正确 B、错误答案：A
+137.使用Ke|调时，pint函数可以重定向到"deggeconote"需要在调试环境打开 Dbug (pint) vevwer 窗。
+A、正确 B、错误答案：A
+138.PLC通信技术是一种专用于电力领域的无线通信技术。
+A、正确 B、错误答案：B
+139.在系统运行之前向任务堆栈中添加任务与系统运行以后向任务堆栈添加任
+务没有什么不同。 A、正确
+B、错误答案：B
+140.AMI是一套包括智能电表、先进通讯网络、采集器与集中器、后台软件的完整的系统，它能够利用双向通信系统来记录用户详细负荷信息
+A、正确 B、错误答案：A
+141.使用Ke丨调时，pint函数可以重定向到"deggeconote"需要在调试环境打开 Dbug(pint)Vevwer 窗。
+A、正确 B、错误答案：A
+142.eLTE-loT与 NB-loT 类似，均是基于 Sub-GHz 的ISM 免授权频谱
+A、正确 B、错误答案：A
+143.智能网关是整个智慧家庭网络的核心是家庭网络互联中枢
+A、正确 B、错误答案：A
+144.因力NB-IoT相比 GSM 带宽小，所以覆盖范围比GSM要小。 A、正确
+B、错误答案：B
+145.智慧家庭中不同的家电来自于不同的厂家，所以不能互通信息。
+A、正确 B、错误答案：B
+146.老人看护中的手环需要广域网推入能力，才能保证老人在室外可以被看护。
+A、正确 B、错误答案：A
+147.SigFox和LoRa-祥来源于法国运营方式也相同，大量应用于私有网絡。
+A、正确 B、错误答案：B
+148.LiteOS 开放的API接做不到屏蔽底层差异
+A、正确 B、错误答案：B
+149.智能家居领域，智能ONT也可以基于USBDongle扩展的方式，提供包括Zg-be8/Zwave
+等多种物联网基础撞入能力。通过接入标准的统，将能集成不同厂家的智能设备。 A、正确
+B、错误答案：A
+150.为增强Wi-Fi使用体验，家庭ONT分散式Wi-Fi向集中式发展
+A、正确 B、错误答案：B
+151.MQTT协议采用请求/响应的工作模式，客户端向服务器订阅感兴趣的信息
+A、正确 B、错误答案：A
+152.CoAP 协议报文结构中的Option字段为可选项，可以是0个或者多个，
+A、正确 B、错误答案：A
+153.整个AMI体系包括硬件设备，软件，通信网络，用户界面，DCP&UMS和应用
+层系统。 A、正确 B、错误答案：A
+154.阶梯水价要求一户一表，是水务公司发展只能抄表得重要动力之一。
+A、正确 B、错误
+答案：A
+155.OceanConnest提供IoT服务给最终的用户。
+A、正确 B、错误答案：B
+156.0ceanConnect平台设备接入鉴权指设备注册时鉴权，数据上报时不涉及鉴权
+A、正确 B、错误答案：B
+157.智能网关是整个智慧家庭网络的核心，是家庭网络互联中框。
+A、正确 B、错误答案：A
+158.操作系统的作用是相当于一个软中断的机制，占用一个硬中断，开放软中断
+的接口。 A、正确 B、错误答案：A
+159.softradio不可以在无基站区域进行业务调试
+A、正确 B、错误
+答案：B
+160.V2X通信技术对车联网的推广和普及有重大意义
+A、正确 B、错误答案：A
+161.为了更快的探测车位状态，检测器检测的频率越高越好。
+A、正确 B、错误答案：B
+162.在系统运行之前向任务堆栈中添加任务与系统运行以后向任务堆栈添加任务没有什么不同.
+A、正确 B、错误答案：B
+163.PLC通信技术是指利用电力线传输数据和媒体信号的一种通信方式。
+A、正确 B、错误答案：A
+164.工业网关有强大的物联接入能力，支持FE
+A、正确 B、错误答案：A
+165.电力通信技术简称PLC,指利用电力线传输数据和媒体信号的一种通信方式
+A、正确 B、错误答案：A
+166.物联网简单表述就是物物相连的互联网。
+A、正确 B、错误答案：A
+167.老人看护中的手环需要广域网接入能力，才能保證老人在室外可以被看护
+A、正确 B、错误答案：A
+168.HiLinkMCUSDK其中 HiLink控制逻辑和His1ip通信协议开发者可以不关注，开发者仅需要关注用户适配或者增加的功能
+A、正确 B、错误答案：A
+169.NB-I0T标准演讲过程中经历了两次融合最终2015年9月在3GPP中正式立项.
+A、正确 B、错误答案：A
+170.softradio不可以在无基站区域进行业务调试
+A、正确 B、错误答案：B
+171.必须先为loT设备在OceanConnect 开户，否则设备是非法的，不能接入到
+平台中。 A、正确 B、错误答案：A
+172.LiteOSSDK配置可在首次安装时进行配置，完成后不能再更改
+A、正确 B、错误答案：B
+173.LiteOSSDK包括端云互通组件、FOTA、JS引擎、传感框架
+A、正确 B、错误答案：A
+174.网关接入鉴权的主要作用是对网关的身份进行鉴权，防止非法设备越权访问
+A、正确 B、错误答案：A
+175.OceanConnest提供IoT服务给最终的用户
+A、正确 B、错误答案：B
+176.5G网络切片支持对承载网和核心网切片，无线不能切片
+A、正确 B、错误答案：B
+177.NB-I0T标准演讲过程中经历了两次融合最终2015年9月在3GPP中正式立项.
+A、正确 B、错误答案：A
+178.NB-loTInband和 Guardband 小区的频点在支持的频段内可以任意配置。
+A、正确 B、错误答案：B
+179.力增强Wi-Fi使用体验，单ONT集中式WiFi是趋势。
+A、正确 B、错误答案：B
+180.在智能制造领域，利用eLTE.loT可以实现生产现场视频数据实时回传 A、正确
+B、错误答案：B 解析：实时
+181.因力 NB-IoT相比 GSM 带宽小，所以覆盖范围比 GSM要小。
+A、正确 B、错误答案：B
+182.CoAP协议报文格式简单，消息可以很短，使用长连接，有心跳保活机制.
+A、正确 B、错误答案：B
+183.T-B0X车辆控制流程不需要经过Iot平台
+A、正确 B、错误答案：B
+184.OceanConnect 提供IoT服务给最终的用户
+A、正确 B、错误答案：B
+185.如果没有在OceanConnect 平台为loT设备开户，设备去OceanConnect 注册会失败。
+A、正确 B、错误答案：A
+186.HuaweiLitie0S 的内存管理分为静态内存管理和动态内存管理，其中动态内存优点为按需分配不出现碎片.
+A、正确 B、错误答案：B
+187.如果PLC通信环境附近有较大的变压器，则会对其通信造成严重的噪声干扰。
+A、正确 B、错误答案：A
+188.HuaweiLite0S中的任务是抢占式调度机制，目前咱不支持时间片轮转调度
+方式 A、正确 B、错误答案：B
+189.智能停车关键诉求是降低运营成本、改善停车位不足、利用率低和停车难得现状，同时要考虑用户体验←网络成本和网络可靠性。
+A、正确 B、错误答案：A
+190.中断是指出现需要时，CPU暂停执行当前程序，转而执行新程序的过程。
+A、正确 B、错误答案：A
+191.eDRX省电技术进一步延长终端在空闲模式下的睡眠周期，减少接收单元不必要的启动，相对于 psm，大幅度提升了下行可达性
+A、正确 B、错误答案：A
+192.中断是指出现需要时，CPU暂停执行当前程序转而执行新程序的过程
+A、正确 B、错误答案：A
+193.任务可以使用或等待cpu，使用内存空间等系统资源，并独立于其他任务运行
+A、正确 B、错误答案：A
+194.智能停车关键诉求是降低运营成本政善停车位不足、利用率低和停车难得现状，同时要考虑用户体验、网络成本和网络可靠性
+A、正确 B、错误
+答案：A
+195.在智能制造领域，利用eLTE-loT可以实现生产现场视频数据实时回传。
+A、正确 B、错误答案：B
+196.车联网即是自动驾驶
+A、正确 B、错误答案：B
+197.0ceanConnect提供IoT服务给最终的用户
+A、正确 B、错误答案：B
+198.部分丨oT设备的控制消息不是实时转发的，OceanConnect平台会负责把这类控制消息存储起来。
+A、正确 B、错误答案：A
+199.在电力行业，利用eLTE-loT突现AMI远程抄表主要的优势是覆盖广，海重连接，易于部署和扩展
+A、正确 B、错误
+答案：A
+200.任务是竞争系统资源的最小运行单元。
+A、正确 B、错误答案：A
+201.CoAP协议报文格式简单，消息可以很短，使用长连接，有心跳保活机制
+A、正确 B、错误答案：B
+202.智能家居领城。智能ONT 也可以基于USBDongle 扩展的方式，提供包括 Zig-bye/Z-wane 等多种物联网基础换入能力。通过接入标准的统-，将能继承不同厂家的智能设备.
+A、正确 B、错误答案：A
+203.智能家居领城。智能ONT也可以基于USBDongle扩展的方式，提供包括Zig-bye/Z-wane 等多种物联网基础换入能力。通过接入标准的统-，将能继承不同厂家的智能设备
+A、正确 B、错误答案：A
+204.中断是指出现需要时，CPU暂停执行当前程序转而执行新程序的过程
+A、正确 B、错误答案：A
+205.LTE-V技术是华为提出的依托于蜂窝网实现车联网业务的通信解决方案，
+A、正确 B、错误答案：A
+206.Profile是用来描述一款设备“是什么”、“能做什么”以及“如何控制该设备”的文件，该文件会被上传到应用 APP上
+A、正确 B、错误答案：B
+207.PLC通信技术是一种专用于电力领域的无线通信技术
+A、正确 B、错误答案：B
+208.为增强Wi-Fi使用体验，单 ONT集中式Wi-Fi是趋势。
+A、正确 B、错误答案：B
+209.T-B0X车辆控制流程不需要经过丨ot平台 A、正确
+B、错误答案：B
+210.智能家居领域，智能 ONT也可以基于 USBDongle 扩展的方式，提供包括 Zg-be8/Zwave 等多种物联网基础撞入能力。通过接入标准的统，将能集成不同厂家的智能设备。
+A、正确 B、错误答案：A
+211.HuaweiLiteOS 中的任务是抢占式调度机制，目前咱不支持时间片轮转调度
+方式 A、正确 B、错误答案：B
+212.语音交付类应用可以使用NB-IoT 通信技术
+A、正确 B、错误答案：B
+213.智能停车解决方案中摄像头采用的是NB-I0T技术
+A、正确 B、错误答案：A
+214.继电保护，作用于开关（断路器），主要用于变电站间区段的线路保护，隔离短路故障，保护一次设备（变压器，开关）不受损
+A、正确 B、错误答案：A
+215.eMTC可以应用在车联网与视频监控场景
+A、正确 B、错误答案：A
+216.NB-IoT的物理信道通过降低目标速率、多次传输、采用低阶调制方式等措施，以达到增加覆盖、降低成本、降低功耗的目的。
+A、正确 B、错误答案：A
+217.智能电网解决方案主要应用于配电和用电
+A、正确 B、错误答案：B
+218.AT指令是应用于终端设备与PC应用之间的连接与通信的指令
+A、正确 B、错误答案：A
+219.相同功率的前提下Multi-tone 比Single-tone 拥有更高的功率谱密度增益，
+A、正确 B、错误答案：B
+220.NB-IoT基站支持5W用户同时接入
+A、正确 B、错误答案：B
+221.华为智能网关是基于0SGI开放平台，硬件驱动插件和应用插件可动态远程安装、启动、升级、卸载(即插即用)，用户可自主安装，运营商可集中管控。
+A、正确 B、错误答案：A
+222.HuaweiLite0S属于分时操作系统
+A、正确 B、错误答案：B
+223.水务公司智能化改造的主要动机是降低漏损，提升营收
+A、正确 B、错误答案：A
+224.loT设备收到消息后，执行控制消息的内容，必须要对控制消息进行回复，平台上的命令状态才会是成功的。
+A、正确 B、错误答案：A
+225.RPL是基于距离矢量的路由协议
+A、正确 B、错误答案：A
+226.智慧家庭网络中包含了基础家庭网络和智能互朕网络。
+A、正确 B、错误答案：A
+227.业务发放流程的结果是丨oT成用服务器可以登录OceanConnect。
+A、正确 B、错误答案：B
+228.在系统运行之前向任务堆栈中添加任务与系统运行以后向任务堆栈添加任务没有什么不同。
+A、正确 B、错误答案：B
+229.Mesh 组网支持IPv6 协议
+A、正确 B、错误答案：A
+230.聚焦核心竞争力，发展物联网业务，需要一个终端接入解耦、能力开放、安全可靠的平台作为支撑。
+A、正确 B、错误答案：A
